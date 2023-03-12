@@ -110,7 +110,7 @@ function TeamPage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "70px",
                       }}
                     >
@@ -140,7 +140,7 @@ function TeamPage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "70px",
                       }}
                     >
@@ -171,7 +171,7 @@ function TeamPage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "70px",
                       }}
                     >

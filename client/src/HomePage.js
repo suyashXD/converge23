@@ -76,7 +76,7 @@ function HomePage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "60px",
                       }}
                     >
@@ -110,7 +110,7 @@ function HomePage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "70px",
                       }}
                     >
@@ -140,7 +140,7 @@ function HomePage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "50px",
+                        fontSize: "60px",
                         lineHeight: "70px",
                       }}
                     >
