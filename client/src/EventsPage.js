@@ -75,7 +75,7 @@ function EventsPage() {
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "60px",
+                        fontSize: "50px",
                         lineHeight: "60px",
                       }}
                     >
