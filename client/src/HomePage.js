@@ -527,44 +527,43 @@ function HomePage() {
             </div>
 
             <div className="bee-block bee-block-5 bee-button">
-        <Link
-          className="bee-button-content"
-          to="/EventsPage"
-          style={{
-            fontSize: "16px",
-            backgroundColor: "transparent",
-            borderBottom: "1px solid #FFFFFF",
-            borderLeft: "1px solid #FFFFFF",
-            borderRadius: "0px",
-            borderRight: "1px solid #FFFFFF",
-            borderTop: "1px solid #FFFFFF",
-            color: "#ffffff",
-            direction: "ltr",
-            fontFamily:
-              "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-            maxWidth: "100%",
-            paddingBottom: "5px",
-            paddingLeft: "20px",
-            paddingRight: "20px",
-            paddingTop: "5px",
-            width: "auto",
-            display: "inline-block",
-          }}
-          target="_self"
-        >
-          <span
-            dir="ltr"
-            style={{
-              wordBreak: "break-word",
-              fontSize: "16px",
-              lineHeight: "200%",
-            }}
-          >
-            <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
-          </span>
-        </Link>
-      </div>
-          
+              <Link
+                className="bee-button-content"
+                to="/EventsPage"
+                style={{
+                  fontSize: "16px",
+                  backgroundColor: "transparent",
+                  borderBottom: "1px solid #FFFFFF",
+                  borderLeft: "1px solid #FFFFFF",
+                  borderRadius: "0px",
+                  borderRight: "1px solid #FFFFFF",
+                  borderTop: "1px solid #FFFFFF",
+                  color: "#ffffff",
+                  direction: "ltr",
+                  fontFamily:
+                    "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
+                  maxWidth: "100%",
+                  paddingBottom: "5px",
+                  paddingLeft: "20px",
+                  paddingRight: "20px",
+                  paddingTop: "5px",
+                  width: "auto",
+                  display: "inline-block",
+                }}
+                target="_self"
+              >
+                <span
+                  dir="ltr"
+                  style={{
+                    wordBreak: "break-word",
+                    fontSize: "16px",
+                    lineHeight: "200%",
+                  }}
+                >
+                  <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
+                </span>
+              </Link>
+            </div>
           </div>
           <div className="bee-col bee-col-3 bee-col-w5">
             <div className="bee-block bee-block-1 bee-divider">
@@ -1561,16 +1560,16 @@ function HomePage() {
             </div>
           </div>
           <div className="bee-col bee-col-2 bee-col-w4">
-          <div className="bee-block bee-block-1 bee-image">
-    <a href="/">
-      <img
-        alt=""
-        className="bee-center bee-fixedwidth"
-        src="OLogo3d.png"
-        style={{ maxWidth: "169px" }}
-      />
-    </a>
-  </div>
+            <div className="bee-block bee-block-1 bee-image">
+              <a href="/">
+                <img
+                  alt=""
+                  className="bee-center bee-fixedwidth"
+                  src="OLogo3d.png"
+                  style={{ maxWidth: "169px" }}
+                />
+              </a>
+            </div>
             <div className="bee-block bee-block-2 bee-divider">
               <div
                 className="center bee-separator"
@@ -1676,16 +1675,20 @@ function HomePage() {
           </div>
         </div>
         <div className="bee-block bee-block-1 bee-image">
-  <a href="https://github.com/suyashXD/converge23" target="_blank" rel="noopener noreferrer">
-    <img
-      alt=""
-      className="bee-center bee-fixedwidth"
-      src="github-11-32.ico"
-      style={{ maxWidth: "32px" }}
-    />
-  </a>
-</div>
+          <a
+            href="https://github.com/suyashXD/converge23"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              alt=""
+              className="bee-center bee-fixedwidth"
+              src="github-11-32.ico"
+              style={{ maxWidth: "32px" }}
+            />
+          </a>
         </div>
+      </div>
       <div className="bee-row bee-row-21">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
