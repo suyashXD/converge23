@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsCard from "./components/EventsCard";
 import Footer from "./components/Footer";
 import TeamCard from "./components/TeamCard";
+import TeamCard1 from "./components/TeamCard1";
 
 function TeamPage() {
   return (
@@ -323,6 +324,7 @@ function TeamPage() {
       </div>
       <TeamCard/>
 
+      <TeamCard1/>
 
 
 

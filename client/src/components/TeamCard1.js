@@ -35,7 +35,7 @@ function TeamCard() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SIDDHANT JINDAL
+                      MEMBER 3
                     </span>
                   </strong>
                 </span>
@@ -87,7 +87,7 @@ function TeamCard() {
                   lineHeight: "200%",
                 }}
               >
-                <strong style={{ fontSize: "16px" }}>LINKEDIN</strong>
+                <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
               </span>
             </a>
           </div>
@@ -117,7 +117,7 @@ function TeamCard() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        RAHUL PAMNANI
+                        MEMBER 4
                       </span>
                     </span>
                   </strong>
@@ -172,7 +172,7 @@ function TeamCard() {
                   lineHeight: "200%",
                 }}
               >
-                <strong style={{ fontSize: "16px" }}>LINKEDIN</strong>
+                <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
               </span>
             </a>
           </div>
