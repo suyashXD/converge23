@@ -1511,7 +1511,7 @@ function HomePage() {
                   <span style={{ fontSize: "50px", lineHeight: "60px" }}>
                     <strong>
                       <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        PREVIEW
+                        THROWBACK
                       </span>
                     </strong>
                   </span>
