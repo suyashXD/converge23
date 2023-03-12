@@ -1676,7 +1676,7 @@ function HomePage() {
           </div>
         </div>
         <div className="bee-block bee-block-1 bee-image">
-  <a href="https://github.com/suyashXD/converge23">
+  <a href="https://github.com/suyashXD/converge23" target="_blank" rel="noopener noreferrer">
     <img
       alt=""
       className="bee-center bee-fixedwidth"
