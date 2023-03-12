@@ -3,6 +3,8 @@ import "./index.css";
 import { Link } from "react-router-dom";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsPage from "./EventsPage";
+import TeamPage from "./TeamPage";
+import Footer from "./components/Footer";
 
 function HomePage() {
   return (
@@ -44,12 +46,14 @@ function HomePage() {
             </div>
 
             <div className="bee-block bee-block-3 bee-image">
+            <a href="/">
               <img
                 alt="Alternate text"
                 className="bee-center bee-autowidth"
                 src="white3dtext.png"
                 style={{ maxwidth: 428 }}
               />
+            </a>
             </div>
             <div className="bee-block bee-block-4 bee-text">
               <div
@@ -81,9 +85,108 @@ function HomePage() {
                   </strong>
                 </p>
               </div>
+
+              <div className="bee-block bee-block-1 bee-divider">
+              <div className="spacer" style={{ height: 150 }}></div>
+            </div>
+
+              <div
+                className="bee-text-content"
+                style={{
+                  lineHeight: "120%",
+                  fontSize: "12px",
+                  fontFamily: "inherit",
+                  color: "#393d47",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "14px",
+                    lineHeight: "16px",
+                    textAlign: "center",
+                  }}
+                >
+                  <strong style={{}}>
+                    <span
+                      style={{
+                        color: "#ffffff",
+                        fontSize: "50px",
+                        lineHeight: "70px",
+                      }}
+                    >
+                      EXPLORE
+                    </span>
+                  </strong>
+                </p>
+              </div>
+
+              <div
+                className="bee-text-content"
+                style={{
+                  lineHeight: "120%",
+                  fontSize: "12px",
+                  fontFamily: "inherit",
+                  color: "#393d47",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "14px",
+                    lineHeight: "16px",
+                    textAlign: "center",
+                  }}
+                >
+                  <strong style={{}}>
+                    <span
+                      style={{
+                        color: "#ffffff",
+                        fontSize: "50px",
+                        lineHeight: "70px",
+                      }}
+                    >
+                      EMBRACE
+                    </span>
+                  </strong>
+                </p>
+              </div>
+
+
+              <div
+                className="bee-text-content"
+                style={{
+                  lineHeight: "120%",
+                  fontSize: "12px",
+                  fontFamily: "inherit",
+                  color: "#393d47",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "14px",
+                    lineHeight: "16px",
+                    textAlign: "center",
+                  }}
+                >
+                  <strong style={{}}>
+                    <span
+                      style={{
+                        color: "#ffffff",
+                        fontSize: "50px",
+                        lineHeight: "70px",
+                      }}
+                    >
+                      EXPERIENCE
+                    </span>
+                  </strong>
+                </p>
+              </div>
+
+
+
+
             </div>
             <div className="bee-block bee-block-5 bee-divider">
-              <div className="spacer" style={{ height: 495 }}></div>
+              <div className="spacer" style={{ height: 240 }}></div>
             </div>
             <div className="bee-block bee-block-6 bee-text">
               <div
@@ -211,100 +314,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <div className="bee-row bee-row-2">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-2 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-button">
-              <a
-                className="bee-button-content"
-                href="https://www.example.com"
-                style={{
-                  fontSize: "16px",
-                  backgroundColor: "transparent",
-                  borderBottom: "1px solid #FFFFFF",
-                  borderLeft: "1px solid #FFFFFF",
-                  borderRadius: "0px",
-                  borderRight: "1px solid #FFFFFF",
-                  borderTop: "1px solid #FFFFFF",
-                  color: "#ffffff",
-                  direction: "ltr",
-                  fontFamily:
-                    "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                  maxWidth: "100%",
-                  paddingBottom: "5px",
-                  paddingLeft: "20px",
-                  paddingRight: "20px",
-                  paddingTop: "5px",
-                  width: "auto",
-                  display: "inline-block",
-                }}
-                target="_self"
-              >
-                <span
-                  dir="ltr"
-                  style={{
-                    wordBreak: "break-word",
-                    fontSize: "16px",
-                    lineHeight: "200%",
-                  }}
-                >
-                  <strong style={{ fontSize: "16px" }}>LIVE STREAM</strong>
-                </span>
-              </a>
-            </div>
-          </div>
-          <div className="bee-col bee-col-3 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-button">
-              <a
-                className="bee-button-content"
-                href="https://www.example.com"
-                style={{
-                  fontSize: "16px",
-                  backgroundColor: "transparent",
-                  borderBottom: "1px solid #FFFFFF",
-                  borderLeft: "1px solid #FFFFFF",
-                  borderRadius: "0px",
-                  borderRight: "1px solid #FFFFFF",
-                  borderTop: "1px solid #FFFFFF",
-                  color: "#ffffff",
-                  direction: "ltr",
-                  fontFamily:
-                    "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                  maxWidth: "100%",
-                  paddingBottom: "5px",
-                  paddingLeft: "34px",
-                  paddingRight: "34px",
-                  paddingTop: "5px",
-                  width: "auto",
-                  display: "inline-block",
-                }}
-                target="_self"
-              >
-                <span
-                  dir="ltr"
-                  style={{
-                    wordBreak: "break-word",
-                    fontSize: "16px",
-                    lineHeight: "200%",
-                  }}
-                >
-                  <strong style={{ fontSize: "16px" }}>VR EVENT</strong>
-                </span>
-              </a>
-            </div>
-          </div>
-          <div className="bee-col bee-col-4 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-        </div>
-      </div>
+      
       <div className="bee-row bee-row-3">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w3">
@@ -457,7 +467,7 @@ function HomePage() {
                   <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                     <strong style={{}}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        HOW TO JOIN US
+                        REGISTER HERE
                       </span>
                     </strong>
                   </span>
@@ -589,7 +599,7 @@ function HomePage() {
                   <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                     <strong style={{}}>
                       <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        VR EVENT
+                        OUR TEAM
                       </span>
                     </strong>
                   </span>
@@ -661,9 +671,9 @@ function HomePage() {
               <div className="spacer" style={{ height: 45 }}></div>
             </div>
             <div className="bee-block bee-block-5 bee-button">
-              <a
+              <Link
                 className="bee-button-content"
-                href="https://www.example.com"
+                to="/TeamPage"
                 style={{
                   fontSize: "16px",
                   backgroundColor: "transparent",
@@ -696,7 +706,7 @@ function HomePage() {
                 >
                   <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
                 </span>
-              </a>
+              </Link>
             </div>
 
             <div className="bee-block bee-block-6 bee-divider">
@@ -1540,169 +1550,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <div className="bee-row bee-row-18">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w12">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 80 }}></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="bee-row bee-row-19">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div
-                className="center bee-separator"
-                style={{ borderTop: "1px solid #0E0E0E", width: "100%" }}
-              ></div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-2 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-image">
-              <a href="/">
-                <img
-                  alt=""
-                  className="bee-center bee-fixedwidth"
-                  src="OLogo3d.png"
-                  style={{ maxWidth: "169px" }}
-                />
-              </a>
-            </div>
-            <div className="bee-block bee-block-2 bee-divider">
-              <div
-                className="center bee-separator"
-                style={{ borderTop: "1px solid #0E0E0E", width: "100%" }}
-              ></div>
-            </div>
-
-            <div className="bee-block bee-block-3 bee-paragraph">
-              <p>
-                <span style={{ color: "#ffffff" }}>REACH US</span>
-              </p>
-            </div>
-            <div className="bee-block bee-block-4 bee-social">
-              <div className="content">
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://www.facebook.com/jiitconverge/"
-                    target="_self"
-                  >
-                    <img alt="Facebook" src="facebook2x.png" title="facebook" />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a href="https://twitter.com/jiit_converge" target="_self">
-                    <img alt="Twitter" src="twitter2x.png" title="twitter" />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://in.linkedin.com/school/converge-jiit-noida"
-                    target="_self"
-                  >
-                    <img alt="Linkedin" src="linkedin2x.png" title="linkedin" />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://www.instagram.com/jiitconverge"
-                    target="_self"
-                  >
-                    <img
-                      alt="Instagram"
-                      src="instagram2x.png"
-                      title="instagram"
-                    />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://www.youtube.com/channel/UCi--HXm4CBEpKhkt5oD4Q1A"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <img alt="YouTube" src="youtube2x.png" title="YouTube" />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://www.snapchat.com"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <img alt="Snapchat" src="snapchat2x.png" title="Snapchat" />
-                  </a>
-                </span>
-              </div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-3 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div
-                className="center bee-separator"
-                style={{ borderTop: "1px solid #0E0E0E", width: "100%" }}
-              ></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="bee-row bee-row-20">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w12">
-            <div className="bee-block bee-block-1 bee-heading">
-              <h3
-                style={{
-                  color: "#909090",
-                  fontSize: "22px",
-                  fontFamily:
-                    "Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif",
-                  lineHeight: "120%",
-                  textAlign: "center",
-                  direction: "ltr",
-                  fontWeight: "400",
-                  letterSpacing: "normal",
-                  marginTop: "0",
-                  marginBottom: "0",
-                }}
-              >
-                <span className="tinyMce-placeholder">
-                  Made with ❤ by Team Prismatic.​
-                </span>
-              </h3>
-            </div>
-          </div>
-        </div>
-        <div className="bee-block bee-block-1 bee-image">
-          <a
-            href="https://github.com/suyashXD/converge23"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              alt=""
-              className="bee-center bee-fixedwidth"
-              src="github-11-32.ico"
-              style={{ maxWidth: "32px" }}
-            />
-          </a>
-        </div>
-      </div>
-      <div className="bee-row bee-row-21">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w12">
-            <div
-              className="bee-block bee-block-1 bee-icons"
-              id="beepro-locked-footer"
-            >
-              <div className="bee-icon bee-icon-last">
-                <div className="bee-content"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <Footer/>
     </div>
   );
 }

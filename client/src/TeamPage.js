@@ -4,8 +4,9 @@ import { Link } from "react-router-dom";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsCard from "./components/EventsCard";
 import Footer from "./components/Footer";
+import TeamCard from "./components/TeamCard";
 
-function EventsPage() {
+function TeamPage() {
   return (
     <div className="bee-page-container">
       <div className="bee-row bee-row-1">
@@ -45,14 +46,14 @@ function EventsPage() {
             </div>
 
             <div className="bee-block bee-block-3 bee-image">
-              <a href="/">
+            <a href = "/">
               <img
                 alt="Alternate text"
                 className="bee-center bee-autowidth"
                 src="white3dtext.png"
                 style={{ maxwidth: 428 }}
               />
-              </a>
+            </a>
             </div>
             <div className="bee-block bee-block-4 bee-text">
               <div
@@ -84,6 +85,7 @@ function EventsPage() {
                   </strong>
                 </p>
               </div>
+
               <div className="bee-block bee-block-1 bee-divider">
               <div className="spacer" style={{ height: 150 }}></div>
             </div>
@@ -319,8 +321,8 @@ function EventsPage() {
           </div>
         </div>
       </div>
-      <EventsCard/>
-    
+      <TeamCard/>
+
 
 
 
@@ -333,4 +335,4 @@ function EventsPage() {
   );
 }
 
-export default EventsPage;
+export default TeamPage;
