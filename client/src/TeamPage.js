@@ -1,8 +1,8 @@
 import React from "react";
 import "./index.css";
-import { Link } from "react-router-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import EventsCard from "./components/EventsCard";
+//import { Link } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//import EventsCard from "./components/EventsCard";
 import Footer from "./components/Footer";
 import TeamCard from "./components/TeamCard";
 import TeamCard1 from "./components/TeamCard1";

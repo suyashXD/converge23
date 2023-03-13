@@ -1,9 +1,9 @@
 import React from "react";
 import "./index.css";
 import { Link } from "react-router-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import EventsPage from "./EventsPage";
-import TeamPage from "./TeamPage";
+//import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//import EventsPage from "./EventsPage";
+//import TeamPage from "./TeamPage";
 import Footer from "./components/Footer";
 
 function HomePage() {
@@ -374,50 +374,50 @@ function HomePage() {
           </div>
           <div className="bee-col bee-col-2 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              <a href="https://www.example.com" target="_self">
+              
                 <img
                   alt="Band Thumbnail Placeholder"
                   className="bee-center bee-autowidth"
-                  src="NYE_band1_1.png"
+                  src="1.jpg"
                   style={{ maxwidth: 190 }}
                 />
-              </a>
+              
             </div>
           </div>
           <div className="bee-col bee-col-3 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              <a href="https://www.example.com" target="_self">
+              
                 <img
                   alt="Band Thumbnail Placeholder"
                   className="bee-center bee-fixedwidth"
-                  src="NYE_band2_1.png"
+                  src="2.jpg"
                   style={{ maxwidth: 190 }}
                 />
-              </a>
+              
             </div>
           </div>
           <div className="bee-col bee-col-4 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              <a href="https://www.example.com" target="_self">
+              
                 <img
                   alt="Band Thumbnail Placeholder"
                   className="bee-center bee-autowidth"
-                  src="NYE_band3_1.png"
+                  src="3.jpg"
                   style={{ maxwidth: 190 }}
                 />
-              </a>
+              
             </div>
           </div>
           <div className="bee-col bee-col-5 bee-col-w4">
             <div className="bee-block bee-block-1 bee-image">
-              <a href="https://www.example.com" target="_self">
+              
                 <img
                   alt="Headliner Thumbnail Placeholder"
                   className="bee-fixedwidth"
-                  src="NYE_headliner_3.png"
+                  src="4.jpg"
                   style={{ maxwidth: 401 }}
                 />
-              </a>
+              
             </div>
           </div>
           <div className="bee-col bee-col-6 bee-col-w1">

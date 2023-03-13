@@ -1,6 +1,6 @@
 import React from "react";
 import "../index.css";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
 function TeamCard() {
   return (
@@ -46,7 +46,7 @@ function TeamCard() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/NYE_band2_1.png"
+              src="/1.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -126,14 +126,14 @@ function TeamCard() {
             </div>
           </div>
           <div class="bee-block bee-block-3 bee-image">
-            <a href="https://www.example.com" target="_self">
+            
               <img
                 alt="Band Thumbnail Placeholder"
                 class="bee-center bee-fixedwidth"
-                src="/NYE_band2_1.png"
+                src="/2.jpg"
                 style={{ maxWidth: "220px" }}
               />
-            </a>
+            
           </div>
           <div class="bee-block bee-block-4 bee-divider">
             <div class="spacer" style={{ height: "45px" }}></div>
