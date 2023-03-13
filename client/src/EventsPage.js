@@ -3,6 +3,7 @@ import "./index.css";
 import { Link } from "react-router-dom";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsCard from "./components/EventsCard";
+import EventsCard1 from "./components/EventsCard1";
 import Footer from "./components/Footer";
 
 function EventsPage() {
@@ -320,8 +321,8 @@ function EventsPage() {
         </div>
       </div>
       <EventsCard/>
+      <EventsCard1/>
     
-
 
 
 

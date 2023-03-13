@@ -6,6 +6,8 @@ import "./index.css";
 import Footer from "./components/Footer";
 import TeamCard from "./components/TeamCard";
 import TeamCard1 from "./components/TeamCard1";
+import TeamCard2 from "./components/TeamCard2";
+import TeamCard3 from "./components/TeamCard3";
 
 function TeamPage() {
   return (
@@ -47,14 +49,14 @@ function TeamPage() {
             </div>
 
             <div className="bee-block bee-block-3 bee-image">
-            <a href = "/">
-              <img
-                alt="Alternate text"
-                className="bee-center bee-autowidth"
-                src="white3dtext.png"
-                style={{ maxwidth: 428 }}
-              />
-            </a>
+              <a href="/">
+                <img
+                  alt="Alternate text"
+                  className="bee-center bee-autowidth"
+                  src="white3dtext.png"
+                  style={{ maxwidth: 428 }}
+                />
+              </a>
             </div>
             <div className="bee-block bee-block-4 bee-text">
               <div
@@ -88,8 +90,8 @@ function TeamPage() {
               </div>
 
               <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 150 }}></div>
-            </div>
+                <div className="spacer" style={{ height: 150 }}></div>
+              </div>
 
               <div
                 className="bee-text-content"
@@ -151,7 +153,6 @@ function TeamPage() {
                 </p>
               </div>
 
-
               <div
                 className="bee-text-content"
                 style={{
@@ -181,7 +182,6 @@ function TeamPage() {
                   </strong>
                 </p>
               </div>
-
             </div>
             <div className="bee-block bee-block-5 bee-divider">
               <div className="spacer" style={{ height: 240 }}></div>
@@ -312,7 +312,7 @@ function TeamPage() {
           </div>
         </div>
       </div>
-      
+
       <div className="bee-row bee-row-5">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
@@ -323,16 +323,11 @@ function TeamPage() {
         </div>
       </div>
       <TeamCard/>
-
       <TeamCard1/>
+      <TeamCard2/>
+      <TeamCard3/>
 
-
-
-
-
-
-
-      <Footer/>
+      <Footer />
     </div>
   );
 }

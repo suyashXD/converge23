@@ -34,7 +34,7 @@ function EventsCard() {
                   <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                     <strong style={{}}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        EVENT 3
+                        CRICKET
                       </span>
                     </strong>
                   </span>
@@ -137,7 +137,7 @@ function EventsCard() {
                     lineHeight: "200%",
                   }}
                 >
-                  <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
+                  <strong style={{ fontSize: "16px" }}>REGISTER</strong>
                 </span>
               </Link>
             </div>
@@ -166,7 +166,7 @@ function EventsCard() {
                   <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                     <strong style={{}}>
                       <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        EVENT 2
+                        FOOTBALL
                       </span>
                     </strong>
                   </span>
@@ -271,7 +271,7 @@ function EventsCard() {
                     lineHeight: "200%",
                   }}
                 >
-                  <strong style={{ fontSize: "16px" }}>LEARN MORE</strong>
+                  <strong style={{ fontSize: "16px" }}>REGISTER</strong>
                 </span>
               </a>
             </div>

@@ -35,7 +35,7 @@ function TeamCard() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      GAURAV KUMAR
+                      ARYAMAN KUMAR SHARMA
                     </span>
                   </strong>
                 </span>
@@ -46,7 +46,7 @@ function TeamCard() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/NYE_band2_1.png"
+              src="https://www.linkpicture.com/q/Profile-Resize.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -56,7 +56,7 @@ function TeamCard() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://www.linkedin.com/in/aryamankumar/"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -117,7 +117,7 @@ function TeamCard() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        JAYANT DALMIA
+                        SUYASH SRIVASTAVA
                       </span>
                     </span>
                   </strong>
@@ -141,7 +141,7 @@ function TeamCard() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/jayant-dalmia/"
+              href="https://www.linkedin.com/in/suyashsr/"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
