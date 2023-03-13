@@ -1,6 +1,7 @@
 import React from 'react';
 import "../index.css";
 import { Link } from "react-router-dom";
+
 function EventsCard() {
   return (
     <div className="bee-row bee-row-6">
@@ -65,7 +66,7 @@ function EventsCard() {
                     lineHeight: "19px",
                   }}
                 >
-                  Lorem ipsum dolor sit amet, consectetuer{" "}
+                  Venue: Ground{" "}
                 </span>
                 <br />
                 <span
@@ -198,7 +199,7 @@ function EventsCard() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer{" "}
+                    Venue: Football Ground{" "}
                   </span>
                   <br />
                   <span

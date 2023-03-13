@@ -4,6 +4,11 @@ import { Link } from "react-router-dom";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsCard from "./components/EventsCard";
 import EventsCard1 from "./components/EventsCard1";
+import EventsCard2 from "./components/EventsCard2";
+import EventsCard3 from "./components/EventsCard3";
+import EventsCard4 from "./components/EventsCard4";
+import EventsCard5 from "./components/EventsCard5";
+import EventsCard6 from "./components/EventsCard6";
 import Footer from "./components/Footer";
 
 function EventsPage() {
@@ -322,12 +327,12 @@ function EventsPage() {
       </div>
       <EventsCard/>
       <EventsCard1/>
+      <EventsCard2/>
+      <EventsCard3/>
+      <EventsCard4/>
+      <EventsCard5/>
+      <EventsCard6/>
     
-
-
-
-
-
 
       <Footer/>
     </div>

@@ -2,7 +2,7 @@ import React from "react";
 import "../index.css";
 import { Link } from "react-router-dom";
 
-function EventsCard1() {
+function EventsCard6() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -35,7 +35,7 @@ function EventsCard1() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      BASKETBALL
+                      SPEAK TWEAK
                     </span>
                   </strong>
                 </span>
@@ -66,7 +66,7 @@ function EventsCard1() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Basketball Court{" "}
+                Venue: LT1{" "}
               </span>
               <br />
               <span
@@ -167,7 +167,7 @@ function EventsCard1() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      VOLLEYBALL
+                      BRAIN BATTLE
                     </span>
                   </strong>
                 </span>
@@ -199,7 +199,7 @@ function EventsCard1() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: Vollyball Court{" "}
+                  Venue: LT1{" "}
                 </span>
                 <br />
                 <span
@@ -291,4 +291,4 @@ function EventsCard1() {
   );
 }
 
-export default EventsCard1;
+export default EventsCard6;

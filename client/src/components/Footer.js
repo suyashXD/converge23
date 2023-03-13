@@ -1,6 +1,7 @@
 import React from 'react'
 import '../index.css';
 //import { Link } from "react-router-dom";
+
 function Footer(){
   return (
     <div className="bee-page-container">

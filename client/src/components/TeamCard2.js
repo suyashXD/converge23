@@ -2,7 +2,7 @@ import React from "react";
 import "../index.css";
 import { Link } from "react-router-dom";
 
-function TeamCard() {
+function TeamCard2() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -191,4 +191,4 @@ function TeamCard() {
   );
 }
 
-export default TeamCard;
+export default TeamCard2;
