@@ -80,34 +80,16 @@ function EventsCard4() {
               </span>
               <br />
               <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                adipiscing elit, sed diam nonummy nibh{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                euismod tincidunt ut laoreet dolore magna{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                aliquam erat volutpat.
-              </span>
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  aliquam erat volutpat.
+                </span>
+              
+              
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -221,26 +203,7 @@ function EventsCard4() {
                   Venue: MPH{" "}
                 </span>
                 <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  adipiscing elit, sed diam nonummy nibh{" "}
-                </span>
-                <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  euismod tincidunt ut laoreet dolore magna{" "}
-                </span>
-                <br />
+                
                 <span
                   style={{
                     color: "#ffffff",

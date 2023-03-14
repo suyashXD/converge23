@@ -86,17 +86,7 @@ function EventsCard5() {
                 }}
               >
                 Bhangde-de-sartaaj extends its warmest welcome to all those out
-                there who want to{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                showcase their dancing moves and skills either through a solo
+                there who want to showcase their dancing moves and skills either through a solo
                 performance or duet.{" "}
               </span>
               <br />
@@ -222,26 +212,7 @@ function EventsCard5() {
                   Venue: MPH{" "}
                 </span>
                 <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  adipiscing elit, sed diam nonummy nibh{" "}
-                </span>
-                <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  euismod tincidunt ut laoreet dolore magna{" "}
-                </span>
-                <br />
+                
                 <span
                   style={{
                     color: "#ffffff",

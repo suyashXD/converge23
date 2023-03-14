@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
-import { Link } from "react-router-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//import { Link } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import EventsCard from "./components/EventsCard";
 import EventsCard1 from "./components/EventsCard1";
 import EventsCard2 from "./components/EventsCard2";
@@ -276,36 +276,7 @@ function EventsPage() {
                   >
                     Lorem ipsum dolor sit amet, consectetuer
                   </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
-                  </span>
+                  
                 </p>
               </div>
             </div>
