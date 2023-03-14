@@ -1,8 +1,7 @@
 import React from "react";
 import "../index.css";
-//import { Link } from "react-router-dom";
 
-function TeamCard() {
+function TeamCard1() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -35,7 +34,7 @@ function TeamCard() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      GAURAV KUMAR
+                      ARYAMAN KUMAR SHARMA
                     </span>
                   </strong>
                 </span>
@@ -51,44 +50,40 @@ function TeamCard() {
             />
           </div>
           <div
-              className="bee-block bee-block-3 bee-text"
+            className="bee-block bee-block-3 bee-text"
+            style={{
+              lineHeight: "120%",
+              fontSize: "12px",
+              fontFamily: "inherit",
+              color: "#393d47",
+            }}
+          >
+            <p
               style={{
-                lineHeight: "120%",
-                fontSize: "12px",
-                fontFamily: "inherit",
-                color: "#393d47",
+                fontSize: "14px",
+                lineHeight: "16px",
+                textAlign: "left",
               }}
             >
-              <p
+              <span
                 style={{
-                  fontSize: "14px",
-                  lineHeight: "16px",
-                  textAlign: "left",
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  <strong>
-                  PR HEAD{" "}
-                  </strong>
-                </span>
-                <br />
-                
-              
-              </p>
-            </div>
+                <strong>MENTOR </strong>
+              </span>
+              <br />
+            </p>
+          </div>
           <div className="bee-block bee-block-4 bee-divider">
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://www.linkedin.com/in/aryamankumar/"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -149,7 +144,7 @@ function TeamCard() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        JAYANT DALMIA
+                        SUYASH SRIVASTAVA
                       </span>
                     </span>
                   </strong>
@@ -158,48 +153,43 @@ function TeamCard() {
             </div>
           </div>
           <div class="bee-block bee-block-3 bee-image">
-            
-              <img
-                alt="Band Thumbnail Placeholder"
-                class="bee-center bee-fixedwidth"
-                src="/2.jpg"
-                style={{ maxWidth: "220px" }}
-              />
-            
+            <img
+              alt="Band Thumbnail Placeholder"
+              class="bee-center bee-fixedwidth"
+              src="/2.jpg"
+              style={{ maxWidth: "220px" }}
+            />
           </div>
 
           <div className="bee-block bee-block-3 bee-text">
-              <div
-                className="bee-text-content"
+            <div
+              className="bee-text-content"
+              style={{
+                lineHeight: "120%",
+                fontSize: "12px",
+                fontFamily: "inherit",
+                color: "#393d47",
+              }}
+            >
+              <p
                 style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
+                  fontSize: "14px",
+                  lineHeight: "16px",
+                  textAlign: "right",
                 }}
               >
-                <p
+                <span
                   style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "right",
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
                   }}
                 >
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    <strong>
-                    PR HEAD{" "}
-                    </strong>
-                  </span>
-                  
-                </p>
-              </div>
+                  <strong>MENTOR </strong>
+                </span>
+              </p>
             </div>
+          </div>
 
           <div class="bee-block bee-block-4 bee-divider">
             <div class="spacer" style={{ height: "45px" }}></div>
@@ -207,7 +197,7 @@ function TeamCard() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.example.com"
+              href="https://www.linkedin.com/in/suyashsr/"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -257,4 +247,4 @@ function TeamCard() {
   );
 }
 
-export default TeamCard;
+export default TeamCard1;
