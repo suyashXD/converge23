@@ -50,6 +50,63 @@ function TeamCard() {
               style={{ maxWidth: "220px" }}
             />
           </div>
+          <div
+              className="bee-block bee-block-3 bee-text"
+              style={{
+                lineHeight: "120%",
+                fontSize: "12px",
+                fontFamily: "inherit",
+                color: "#393d47",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: "14px",
+                  lineHeight: "16px",
+                  textAlign: "left",
+                }}
+              >
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  Venue: Ground{" "}
+                </span>
+                <br />
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  adipiscing elit, sed diam nonummy nibh{" "}
+                </span>
+                <br />
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  euismod tincidunt ut laoreet dolore magna{" "}
+                </span>
+                <br />
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  aliquam erat volutpat.
+                </span>
+              </p>
+            </div>
           <div className="bee-block bee-block-4 bee-divider">
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
@@ -135,6 +192,67 @@ function TeamCard() {
               />
             
           </div>
+
+          <div className="bee-block bee-block-3 bee-text">
+              <div
+                className="bee-text-content"
+                style={{
+                  lineHeight: "120%",
+                  fontSize: "12px",
+                  fontFamily: "inherit",
+                  color: "#393d47",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "14px",
+                    lineHeight: "16px",
+                    textAlign: "right",
+                  }}
+                >
+                  <span
+                    style={{
+                      color: "#ffffff",
+                      fontSize: "16px",
+                      lineHeight: "19px",
+                    }}
+                  >
+                    Venue: Football Ground{" "}
+                  </span>
+                  <br />
+                  <span
+                    style={{
+                      color: "#ffffff",
+                      fontSize: "16px",
+                      lineHeight: "19px",
+                    }}
+                  >
+                    adipiscing elit, sed diam nonummy nibh{" "}
+                  </span>
+                  <br />
+                  <span
+                    style={{
+                      color: "#ffffff",
+                      fontSize: "16px",
+                      lineHeight: "19px",
+                    }}
+                  >
+                    euismod tincidunt ut laoreet dolore magna{" "}
+                  </span>
+                  <br />
+                  <span
+                    style={{
+                      color: "#ffffff",
+                      fontSize: "16px",
+                      lineHeight: "19px",
+                    }}
+                  >
+                    aliquam erat volutpat.
+                  </span>
+                </p>
+              </div>
+            </div>
+
           <div class="bee-block bee-block-4 bee-divider">
             <div class="spacer" style={{ height: "45px" }}></div>
           </div>

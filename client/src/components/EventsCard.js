@@ -42,6 +42,14 @@ function EventsCard() {
                 </p>
               </div>
             </div>
+            <div className="bee-block bee-block-3 bee-image">
+            <img
+              alt="Band Thumbnail Placeholder"
+              className="bee-center bee-fixedwidth"
+              src="/1.jpg"
+              style={{ maxWidth: "220px" }}
+            />
+          </div>
 
             <div
               className="bee-block bee-block-3 bee-text"
@@ -174,6 +182,15 @@ function EventsCard() {
                 </p>
               </div>
             </div>
+
+            <div className="bee-block bee-block-3 bee-image">
+            <img
+              alt="Band Thumbnail Placeholder"
+              className="bee-center bee-fixedwidth"
+              src="/1.jpg"
+              style={{ maxWidth: "220px" }}
+            />
+          </div>
 
             <div className="bee-block bee-block-3 bee-text">
               <div
