@@ -925,7 +925,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-fixedwidth"
-                src="24.png"
+                src="25.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -1028,7 +1028,7 @@ function HomePage() {
               <img
                 alt="Alternate text"
                 className="bee-autowidth"
-                src="25.png"
+                src="26.png"
                 style={{ maxwidth: 418 }}
               />
             </div>
