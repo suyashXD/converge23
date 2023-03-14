@@ -1,8 +1,8 @@
 import React from "react";
 import "../index.css";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
-function TeamCard1() {
+function TeamCard() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -46,10 +46,42 @@ function TeamCard1() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/NYE_band2_1.png"
+              src="/1.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
+          <div
+              className="bee-block bee-block-3 bee-text"
+              style={{
+                lineHeight: "120%",
+                fontSize: "12px",
+                fontFamily: "inherit",
+                color: "#393d47",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: "14px",
+                  lineHeight: "16px",
+                  textAlign: "left",
+                }}
+              >
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  <strong>
+                  PR HEAD{" "}
+                  </strong>
+                </span>
+                <br />
+                
+              
+              </p>
+            </div>
           <div className="bee-block bee-block-4 bee-divider">
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
@@ -126,22 +158,56 @@ function TeamCard1() {
             </div>
           </div>
           <div class="bee-block bee-block-3 bee-image">
-            <a href="https://www.example.com" target="_self">
+            
               <img
                 alt="Band Thumbnail Placeholder"
                 class="bee-center bee-fixedwidth"
-                src="/NYE_band2_1.png"
+                src="/2.jpg"
                 style={{ maxWidth: "220px" }}
               />
-            </a>
+            
           </div>
+
+          <div className="bee-block bee-block-3 bee-text">
+              <div
+                className="bee-text-content"
+                style={{
+                  lineHeight: "120%",
+                  fontSize: "12px",
+                  fontFamily: "inherit",
+                  color: "#393d47",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "14px",
+                    lineHeight: "16px",
+                    textAlign: "right",
+                  }}
+                >
+                  <span
+                    style={{
+                      color: "#ffffff",
+                      fontSize: "16px",
+                      lineHeight: "19px",
+                    }}
+                  >
+                    <strong>
+                    PR HEAD{" "}
+                    </strong>
+                  </span>
+                  
+                </p>
+              </div>
+            </div>
+
           <div class="bee-block bee-block-4 bee-divider">
             <div class="spacer" style={{ height: "45px" }}></div>
           </div>
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/jayant-dalmia/"
+              href="https://www.example.com"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -191,4 +257,4 @@ function TeamCard1() {
   );
 }
 
-export default TeamCard1;
+export default TeamCard;

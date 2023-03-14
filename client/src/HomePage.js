@@ -918,14 +918,7 @@ function HomePage() {
               ></div>
             </div>
           </div>
-          <div className="bee-col bee-col-4 bee-col-w1">
-            <div className="bee-block bee-block-1 bee-divider bee-desktop_hide">
-              <div className="spacer" style={{ height: "70px" }}></div>
-            </div>
-            <div className="bee-block bee-block-2 bee-divider">
-              <div className="spacer" style={{ height: "0px" }}></div>
-            </div>
-          </div>
+          
 
           <div className="bee-col bee-col-5 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
@@ -1001,6 +994,7 @@ function HomePage() {
                 </p>
               </div>
             </div>
+            
             <div className="bee-block bee-block-3 bee-divider">
               <div
                 className="left bee-separator"

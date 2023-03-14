@@ -1,3 +1,4 @@
+
 import React from "react";
 import "../index.css";
 import { Link } from "react-router-dom";
@@ -41,6 +42,15 @@ function EventsCard4() {
                 </span>
               </p>
             </div>
+          </div>
+
+          <div className="bee-block bee-block-3 bee-image">
+            <img
+              alt="Band Thumbnail Placeholder"
+              className="bee-center bee-fixedwidth"
+              src="/1.jpg"
+              style={{ maxWidth: "220px" }}
+            />
           </div>
 
           <div
@@ -173,6 +183,15 @@ function EventsCard4() {
                 </span>
               </p>
             </div>
+          </div>
+
+          <div className="bee-block bee-block-3 bee-image">
+            <img
+              alt="Band Thumbnail Placeholder"
+              className="bee-center bee-fixedwidth"
+              src="/1.jpg"
+              style={{ maxWidth: "220px" }}
+            />
           </div>
 
           <div className="bee-block bee-block-3 bee-text">
