@@ -46,14 +46,14 @@ function HomePage() {
             </div>
 
             <div className="bee-block bee-block-3 bee-image">
-            <a href="/">
-              <img
-                alt="Alternate text"
-                className="bee-center bee-autowidth"
-                src="white3dtext.png"
-                style={{ maxwidth: 428 }}
-              />
-            </a>
+              <a href="/">
+                <img
+                  alt="Alternate text"
+                  className="bee-center bee-autowidth"
+                  src="white3dtext.png"
+                  style={{ maxwidth: 428 }}
+                />
+              </a>
             </div>
             <div className="bee-block bee-block-4 bee-text">
               <div
@@ -87,8 +87,8 @@ function HomePage() {
               </div>
 
               <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 150 }}></div>
-            </div>
+                <div className="spacer" style={{ height: 150 }}></div>
+              </div>
 
               <div
                 className="bee-text-content"
@@ -150,7 +150,6 @@ function HomePage() {
                 </p>
               </div>
 
-
               <div
                 className="bee-text-content"
                 style={{
@@ -180,10 +179,6 @@ function HomePage() {
                   </strong>
                 </p>
               </div>
-
-
-
-
             </div>
             <div className="bee-block bee-block-5 bee-divider">
               <div className="spacer" style={{ height: 240 }}></div>
@@ -240,7 +235,7 @@ function HomePage() {
                       color: "#ffffff",
                     }}
                   >
-                    FROM THE COMFORT OF YOUR ROOMS
+                    
                   </span>
                 </p>
               </div>
@@ -273,37 +268,16 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
+                    The wait is finally over so Lights Camera Action! We bring
+                    to you CONVERGE 23 a celebration of talent, passion and a
+                    fusion of cultures. After three long years we are back with
+                    a bang and to turn this event into a blockbuster hit we need
+                    you to join us in our celebration. Do you have flair for
+                    debating or your moves can make people groove, an ace of
+                    sports or you hit the perfect note. Its time for you show
+                    what you've got! With a few easy steps you can register in
+                    the events of your choice and get a chance to win exciting
+                    prizes.
                   </span>
                 </p>
               </div>
@@ -314,7 +288,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      
+
       <div className="bee-row bee-row-3">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w3">
@@ -374,50 +348,42 @@ function HomePage() {
           </div>
           <div className="bee-col bee-col-2 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              
-                <img
-                  alt="Band Thumbnail Placeholder"
-                  className="bee-center bee-autowidth"
-                  src="1.jpg"
-                  style={{ maxwidth: 190 }}
-                />
-              
+              <img
+                alt="Band Thumbnail Placeholder"
+                className="bee-center bee-autowidth"
+                src="1.jpg"
+                style={{ maxwidth: 190 }}
+              />
             </div>
           </div>
           <div className="bee-col bee-col-3 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              
-                <img
-                  alt="Band Thumbnail Placeholder"
-                  className="bee-center bee-fixedwidth"
-                  src="2.jpg"
-                  style={{ maxwidth: 190 }}
-                />
-              
+              <img
+                alt="Band Thumbnail Placeholder"
+                className="bee-center bee-fixedwidth"
+                src="2.jpg"
+                style={{ maxwidth: 190 }}
+              />
             </div>
           </div>
           <div className="bee-col bee-col-4 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
-              
-                <img
-                  alt="Band Thumbnail Placeholder"
-                  className="bee-center bee-autowidth"
-                  src="3.jpg"
-                  style={{ maxwidth: 190 }}
-                />
-              
+              <img
+                alt="Band Thumbnail Placeholder"
+                className="bee-center bee-autowidth"
+                src="3.jpg"
+                style={{ maxwidth: 190 }}
+              />
             </div>
           </div>
           <div className="bee-col bee-col-5 bee-col-w4">
             <div className="bee-block bee-block-1 bee-image">
-              
-                <img
-                  alt="Headliner Thumbnail Placeholder"
-                  className="bee-fixedwidth"
-                  src="4.jpg"
-                  style={{ maxwidth: 401 }}
-                />
-              
+              <img
+                alt="Headliner Thumbnail Placeholder"
+                className="bee-fixedwidth"
+                src="4.jpg"
+                style={{ maxwidth: 401 }}
+              />
             </div>
           </div>
           <div className="bee-col bee-col-6 bee-col-w1">
@@ -498,37 +464,9 @@ function HomePage() {
                     lineHeight: "19px",
                   }}
                 >
-                  Lorem ipsum dolor sit amet, consectetuer{" "}
-                </span>
-                <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  adipiscing elit, sed diam nonummy nibh{" "}
-                </span>
-                <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  euismod tincidunt ut laoreet dolore magna{" "}
-                </span>
-                <br />
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  aliquam erat volutpat.
+                  Get a step closer to proving your talent with just a click.
+                  Register here and win prizes in addition to being part of this
+                  exhilarating gala.{" "}
                 </span>
               </p>
             </div>
@@ -631,37 +569,14 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
+                    JYC brings to you CONVERGE 2023...not a one man show 
+                    <br />
+                    but an
+                    effort of a family which has excelled to bring the most
+                    wholesome experience in our reach. No matter how diverse
+                    their qualities may be, students seem to find a society
+                    where their skillset can be nurtured among the people having
+                    similar interests.{" "}
                   </span>
                 </p>
               </div>
@@ -794,35 +709,11 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer{" "}
-                  </span>
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna{" "}
-                  </span>
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
+                    The four day journey is lined up with events from every
+                    corner of your imaginations that will hook you into your own
+                    depths of creativity. Tune in on March 23 to 26 to be part
+                    this spectacular show. Till then here's a sneak peak to all
+                    thats about to happen.{" "}
                   </span>
                 </p>
               </div>
@@ -918,7 +809,6 @@ function HomePage() {
               ></div>
             </div>
           </div>
-          
 
           <div className="bee-col bee-col-5 bee-col-w2">
             <div className="bee-block bee-block-1 bee-image">
@@ -994,7 +884,7 @@ function HomePage() {
                 </p>
               </div>
             </div>
-            
+
             <div className="bee-block bee-block-3 bee-divider">
               <div
                 className="left bee-separator"
@@ -1544,7 +1434,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 }

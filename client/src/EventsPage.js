@@ -52,12 +52,12 @@ function EventsPage() {
 
             <div className="bee-block bee-block-3 bee-image">
               <a href="/">
-              <img
-                alt="Alternate text"
-                className="bee-center bee-autowidth"
-                src="white3dtext.png"
-                style={{ maxwidth: 428 }}
-              />
+                <img
+                  alt="Alternate text"
+                  className="bee-center bee-autowidth"
+                  src="white3dtext.png"
+                  style={{ maxwidth: 428 }}
+                />
               </a>
             </div>
             <div className="bee-block bee-block-4 bee-text">
@@ -91,8 +91,8 @@ function EventsPage() {
                 </p>
               </div>
               <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 150 }}></div>
-            </div>
+                <div className="spacer" style={{ height: 150 }}></div>
+              </div>
 
               <div
                 className="bee-text-content"
@@ -154,7 +154,6 @@ function EventsPage() {
                 </p>
               </div>
 
-
               <div
                 className="bee-text-content"
                 style={{
@@ -184,7 +183,6 @@ function EventsPage() {
                   </strong>
                 </p>
               </div>
-
             </div>
             <div className="bee-block bee-block-5 bee-divider">
               <div className="spacer" style={{ height: 240 }}></div>
@@ -240,9 +238,7 @@ function EventsPage() {
                       lineHeight: "28px",
                       color: "#ffffff",
                     }}
-                  >
-                    FROM THE COMFORT OF YOUR ROOMS
-                  </span>
+                  ></span>
                 </p>
               </div>
             </div>
@@ -274,9 +270,17 @@ function EventsPage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer
+                    The wait is finally over so Lights Camera Action! We bring
+                    to you CONVERGE 23 a celebration of talent, passion and a
+                    fusion of cultures. After three long years we are back with
+                    a bang and to turn this event into a blockbuster hit we need
+                    you to join us in our celebration. Do you have flair for
+                    debating or your moves can make people groove, an ace of
+                    sports or you hit the perfect note. Its time for you show
+                    what you've got! With a few easy steps you can register in
+                    the events of your choice and get a chance to win exciting
+                    prizes.
                   </span>
-                  
                 </p>
               </div>
             </div>
@@ -286,7 +290,7 @@ function EventsPage() {
           </div>
         </div>
       </div>
-      
+
       <div className="bee-row bee-row-5">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
@@ -296,16 +300,15 @@ function EventsPage() {
           </div>
         </div>
       </div>
-      <EventsCard/>
-      <EventsCard1/>
-      <EventsCard2/>
-      <EventsCard3/>
-      <EventsCard4/>
-      <EventsCard5/>
-      <EventsCard6/>
-    
+      <EventsCard />
+      <EventsCard1 />
+      <EventsCard2 />
+      <EventsCard3 />
+      <EventsCard4 />
+      <EventsCard5 />
+      <EventsCard6 />
 
-      <Footer/>
+      <Footer />
     </div>
   );
 }

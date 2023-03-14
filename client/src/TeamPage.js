@@ -8,6 +8,8 @@ import TeamCard from "./components/TeamCard";
 import TeamCard1 from "./components/TeamCard1";
 import TeamCard2 from "./components/TeamCard2";
 import TeamCard3 from "./components/TeamCard3";
+import TeamCard4 from "./components/TeamCard4";
+import TeamCard5 from "./components/TeamCard5";
 
 function TeamPage() {
   return (
@@ -237,9 +239,7 @@ function TeamPage() {
                       lineHeight: "28px",
                       color: "#ffffff",
                     }}
-                  >
-                    FROM THE COMFORT OF YOUR ROOMS
-                  </span>
+                  ></span>
                 </p>
               </div>
             </div>
@@ -271,37 +271,16 @@ function TeamPage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Lorem ipsum dolor sit amet, consectetuer
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
+                    The wait is finally over so Lights Camera Action! We bring
+                    to you CONVERGE 23 a celebration of talent, passion and a
+                    fusion of cultures. After three long years we are back with
+                    a bang and to turn this event into a blockbuster hit we need
+                    you to join us in our celebration. Do you have flair for
+                    debating or your moves can make people groove, an ace of
+                    sports or you hit the perfect note. Its time for you show
+                    what you've got! With a few easy steps you can register in
+                    the events of your choice and get a chance to win exciting
+                    prizes.
                   </span>
                 </p>
               </div>
@@ -322,10 +301,12 @@ function TeamPage() {
           </div>
         </div>
       </div>
-      <TeamCard/>
-      <TeamCard1/>
-      <TeamCard2/>
-      <TeamCard3/>
+      <TeamCard />
+      <TeamCard1 />
+      <TeamCard2 />
+      <TeamCard3 />
+      <TeamCard4 />
+      <TeamCard5 />
 
       <Footer />
     </div>

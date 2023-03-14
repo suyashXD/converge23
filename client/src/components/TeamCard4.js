@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 
-function TeamCard3() {
+function TeamCard4() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -34,7 +34,7 @@ function TeamCard3() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SUVANSH KAPOOR
+                      ANURAG VERMA
                     </span>
                   </strong>
                 </span>
@@ -72,7 +72,7 @@ function TeamCard3() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>MENTOR </strong>
+                <strong>PR HEAD </strong>
               </span>
               <br />
             </p>
@@ -145,7 +145,7 @@ function TeamCard3() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        MAYANK SAHA
+                        UDBHAV KHARETIA
                       </span>
                     </span>
                   </strong>
@@ -186,7 +186,7 @@ function TeamCard3() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR HEAD </strong>
+                  <strong>PRISMATIC HEAD </strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard3() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/mayank-saha-199072222/"
+              href="https://www.linkedin.com/in/udbhav-kharetia-435799191/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -249,4 +249,4 @@ function TeamCard3() {
   );
 }
 
-export default TeamCard3;
+export default TeamCard4;

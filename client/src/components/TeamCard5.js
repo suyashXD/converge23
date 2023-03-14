@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 
-function TeamCard3() {
+function TeamCard5() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -34,7 +34,7 @@ function TeamCard3() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SUVANSH KAPOOR
+                      MANAS TRIPATHI
                     </span>
                   </strong>
                 </span>
@@ -72,7 +72,7 @@ function TeamCard3() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>MENTOR </strong>
+                <strong>LITERARY HEAD </strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard3() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/suvansh-kapoor-638979194/"
+              href="https://www.linkedin.com/in/manas-tripathi-711320217/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -145,7 +145,7 @@ function TeamCard3() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        MAYANK SAHA
+                        TANISHA JAISWAL
                       </span>
                     </span>
                   </strong>
@@ -186,7 +186,7 @@ function TeamCard3() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR HEAD </strong>
+                  <strong>EDITOR </strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard3() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/mayank-saha-199072222/"
+              href="https://www.linkedin.com/in/tanisha-jaiswal-078780218/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -249,4 +249,4 @@ function TeamCard3() {
   );
 }
 
-export default TeamCard3;
+export default TeamCard5;
