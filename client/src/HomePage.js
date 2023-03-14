@@ -234,9 +234,7 @@ function HomePage() {
                       lineHeight: "28px",
                       color: "#ffffff",
                     }}
-                  >
-                    
-                  </span>
+                  ></span>
                 </p>
               </div>
             </div>
@@ -569,14 +567,12 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    JYC brings to you CONVERGE 2023...not a one man show 
-                    <br />
-                    but an
-                    effort of a family which has excelled to bring the most
-                    wholesome experience in our reach. No matter how diverse
-                    their qualities may be, students seem to find a society
-                    where their skillset can be nurtured among the people having
-                    similar interests.{" "}
+                    JYC brings to you CONVERGE 2023...not a one<br/> man show
+                    but an effort of a family which has excelled to bring the
+                    most wholesome experience in our reach. No matter how
+                    diverse their qualities may be, students seem to find a
+                    society where their skillset can be nurtured among the
+                    people having similar interests.{" "}
                   </span>
                 </p>
               </div>
