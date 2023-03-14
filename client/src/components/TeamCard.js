@@ -84,7 +84,7 @@ function TeamCard() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/siddhantjindal/"
+              href="https://www.linkedin.com/in/siddhantjindal/" target="_blank" rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -105,7 +105,7 @@ function TeamCard() {
                 direction: "ltr",
                 display: "inline-block",
               }}
-              target="_self"
+              
             >
               <span
                 dir="ltr"
@@ -198,7 +198,7 @@ function TeamCard() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/rahul-pamnani-9834bb180/"
+              href="https://www.linkedin.com/in/rahul-pamnani-9834bb180/" target="_blank" rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -219,7 +219,7 @@ function TeamCard() {
                 direction: "ltr",
                 display: "inline-block",
               }}
-              target="_self"
+              
             >
               <span
                 dir="ltr"
