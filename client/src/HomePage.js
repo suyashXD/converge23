@@ -846,7 +846,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-center bee-fixedwidth"
-                src="NYE_21H.png"
+                src="23.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -925,7 +925,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-fixedwidth"
-                src="NYE_2230H.png"
+                src="24.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -1028,7 +1028,7 @@ function HomePage() {
               <img
                 alt="Alternate text"
                 className="bee-autowidth"
-                src="c7f236c8-38e6-45b6-b356-4125b01f0deb.png"
+                src="25.png"
                 style={{ maxwidth: 418 }}
               />
             </div>
