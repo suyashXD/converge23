@@ -45,9 +45,9 @@ function EventsCard5() {
 
           <div className="bee-block bee-block-3 bee-image">
             <img
-              alt="Band Thumbnail Placeholder"
+              alt="Best Foot Forward Profile"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/Best-foot-forward-cropped.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -85,7 +85,8 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                adipiscing elit, sed diam nonummy nibh{" "}
+                Bhangde-de-sartaaj extends its warmest welcome to all those out
+                there who want to{" "}
               </span>
               <br />
               <span
@@ -95,7 +96,8 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                euismod tincidunt ut laoreet dolore magna{" "}
+                showcase their dancing moves and skills either through a solo
+                performance or duet.{" "}
               </span>
               <br />
               <span
@@ -105,7 +107,7 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                aliquam erat volutpat.
+                Time: 12:00PM - 02:00PM
               </span>
             </p>
           </div>

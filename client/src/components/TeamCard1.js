@@ -43,9 +43,9 @@ function TeamCard1() {
           </div>
           <div className="bee-block bee-block-3 bee-image">
             <img
-              alt="Band Thumbnail Placeholder"
+              alt="Aryaman Profile"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/Profile-Resize.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
