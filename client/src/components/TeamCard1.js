@@ -34,7 +34,7 @@ function TeamCard1() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      ARYAMAN KUMAR SHARMA
+                      SUYASH SRIVASTAVA
                     </span>
                   </strong>
                 </span>
@@ -43,9 +43,9 @@ function TeamCard1() {
           </div>
           <div className="bee-block bee-block-3 bee-image">
             <img
-              alt="Aryaman Profile"
+              alt="Batman"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Profile-Resize.jpg"
+              src="/2.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -83,7 +83,7 @@ function TeamCard1() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/aryamankumar/" target="_blank" rel="noreferrer"
+              href="https://www.linkedin.com/in/suyashsr/" target="_blank" rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -144,7 +144,7 @@ function TeamCard1() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        SUYASH SRIVASTAVA
+                        ARYAMAN KUMAR SHARMA
                       </span>
                     </span>
                   </strong>
@@ -154,9 +154,9 @@ function TeamCard1() {
           </div>
           <div class="bee-block bee-block-3 bee-image">
             <img
-              alt="Band Thumbnail Placeholder"
+              alt="Falcone"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/Profile-Resize.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -197,7 +197,7 @@ function TeamCard1() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/suyashsr/" target="_blank" rel="noreferrer"
+              href="https://www.linkedin.com/in/aryamankumar/" target="_blank" rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
