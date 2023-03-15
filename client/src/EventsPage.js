@@ -9,6 +9,16 @@ import EventsCard3 from "./components/EventsCard3";
 import EventsCard4 from "./components/EventsCard4";
 import EventsCard5 from "./components/EventsCard5";
 import EventsCard6 from "./components/EventsCard6";
+import EventsCard17 from "./components/EventsCard17";
+import EventsCard8 from "./components/EventsCard8";
+import EventsCard9 from "./components/EventsCard9";
+import EventsCard10 from "./components/EventsCard10";
+import EventsCard11 from "./components/EventsCard11";
+import EventsCard12 from "./components/EventsCard12";
+import EventsCard13 from "./components/EventsCard13";
+import EventsCard14 from "./components/EventsCard14";
+import EventsCard15 from "./components/EventsCard15";
+import EventsCard16 from "./components/EventsCard16";
 import Footer from "./components/Footer";
 
 function EventsPage() {
@@ -307,7 +317,17 @@ function EventsPage() {
       <EventsCard4 />
       <EventsCard5 />
       <EventsCard6 />
-
+      
+      <EventsCard8/>
+      <EventsCard9/>
+      <EventsCard10/>
+      <EventsCard11/>
+      <EventsCard12/>
+      <EventsCard13/>
+      <EventsCard14/>
+      <EventsCard15/>
+      <EventsCard16/>
+      <EventsCard17/>
       <Footer />
     </div>
   );
