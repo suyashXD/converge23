@@ -80,6 +80,16 @@ function EventsCard13() {
               </span>
               <br />
               <span
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                Mr and Miss Converge is the ultimate fashion and personality competition where participants showcase their style, confidence, and charm. The event features various rounds including traditional wear, western wear, talent round, and a question-answer round where contestants are judged on their overall appearance, poise, and communication skills. The winner is crowned as Mr and Miss Converge and receives exciting prizes and recognition. Get ready to strut your stuff on the runway and show the world what you've got!
+              </span>
+              <br />
+              <span
                   style={{
                     color: "#ffffff",
                     fontSize: "16px",
@@ -96,9 +106,9 @@ function EventsCard13() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="/EventsPage"
+              href = "https://forms.gle/QSX97dPovTxev5mQA"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -131,7 +141,7 @@ function EventsCard13() {
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -202,6 +212,17 @@ function EventsCard13() {
                   Venue: LT 1{" "}
                 </span>
                 <br />
+
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  Vaad Vivaad is a conventional debate competition that challenges individual participants to prepare for both sides of a topic that will be released 48 hours before the competition. The stance (for/against) of each participant will be released 1 hour before the debate, requiring them to prepare thoroughly. Participants will have a total of 3 minutes (2 minutes for speech and 1 minute for conclusion) to express their opinions, followed by an interjection round where participants can be asked up to 3 questions. A participant must not take more than 1 minute to answer a question, and violation of the time limit can lead to deduction of marks. The judges' decision will be final and binding, making this competition an exciting opportunity for participants to showcase their critical thinking and debating skills.
+                </span>
+                <br />
                 
                 <span
                   style={{
@@ -222,7 +243,7 @@ function EventsCard13() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://forms.gle/X5Dkku63UoiNrMA38"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

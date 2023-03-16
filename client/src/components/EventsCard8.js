@@ -86,6 +86,8 @@ function EventsCard8() {
                     lineHeight: "19px",
                   }}
                 >
+                  Teams have to build a manually controlled bot which can do simple tasks ofgripping blocks/shapes and inserting them into respective shaped grooves made in a cubic block.
+                 <br/> 
                  Time: 11:00AM – 04:00PM
                 </span>
               

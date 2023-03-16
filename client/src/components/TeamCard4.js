@@ -45,7 +45,7 @@ function TeamCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="/Anurag.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard4() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>PR HEAD </strong>
+                <strong>PR REPRESENTATIVE</strong>
               </span>
               <br />
             </p>
@@ -145,7 +145,7 @@ function TeamCard4() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        UDBHAV KHARETIA
+                      ABHAY SINGH
                       </span>
                     </span>
                   </strong>
@@ -186,7 +186,7 @@ function TeamCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PRISMATIC HEAD </strong>
+                  <strong>PR REPRESENTATIVE</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard4() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/udbhav-kharetia-435799191/"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
               style={{

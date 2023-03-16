@@ -86,7 +86,8 @@ function EventsCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  aliquam erat volutpat.
+                 The JIIT Youth Marathon is an annual event held at J128. It is a platform to bring together students to compete and race in a 5K marathon. It is a great way for students to get together and enjoy the spirit of running, camaraderie, and healthy competition. The event has been successful in promoting physical fitness, sportsmanship, and creating an environment of fellowship among students from different backgrounds.
+                 
                 </span>
               
               
@@ -97,42 +98,7 @@ function EventsCard4() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
-              className="bee-button-content"
-              to="/EventsPage"
-              style={{
-                fontSize: "16px",
-                backgroundColor: "transparent",
-                borderBottom: "1px solid #FFFFFF",
-                borderLeft: "1px solid #FFFFFF",
-                borderRadius: "0px",
-                borderRight: "1px solid #FFFFFF",
-                borderTop: "1px solid #FFFFFF",
-                color: "#ffffff",
-                direction: "ltr",
-                fontFamily:
-                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                maxWidth: "100%",
-                paddingBottom: "5px",
-                paddingLeft: "20px",
-                paddingRight: "20px",
-                paddingTop: "5px",
-                width: "auto",
-                display: "inline-block",
-              }}
-              target="_self"
-            >
-              <span
-                dir="ltr"
-                style={{
-                  wordBreak: "break-word",
-                  fontSize: "16px",
-                  lineHeight: "200%",
-                }}
-              >
-                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
-              </span>
-            </Link>
+            
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -211,7 +177,9 @@ function EventsCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  aliquam erat volutpat.
+                  The Acoustica is an exciting solo singing competition that showcases the talent and creativity of college students. Participants will have the opportunity to showcase their vocal skills and perform their favorite songs in front of a panel of judges and a live audience. The competition is open to all genres, including pop, rock, classical, and more. The winner will be chosen based on their vocal ability, stage presence, and overall performance. This competition is an excellent opportunity for students to showcase their singing talent and gain recognition for their skills.
+                  <br/>
+                  Time: 10:30AM – 12:00PM
                 </span>
               </p>
             </div>
@@ -223,7 +191,7 @@ function EventsCard4() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://forms.gle/jUyJSUL2E7xbCTe46"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

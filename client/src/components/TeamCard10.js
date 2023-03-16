@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css";
 
-function TeamCard3() {
+function TeamCard10() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -34,7 +34,7 @@ function TeamCard3() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SUVANSH KAPOOR
+                    MUDIT SINHA
                     </span>
                   </strong>
                 </span>
@@ -45,7 +45,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Suvansh.jpg"
+              src="/Mudit.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard3() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>CICR HEAD</strong>
+                <strong>REGISTRATION REPRESENTATIVE</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard3() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/suvansh-kapoor-638979194/"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -145,7 +145,7 @@ function TeamCard3() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        MAYANK SAHA
+                      VANSHITA VARSHNEY
                       </span>
                     </span>
                   </strong>
@@ -157,7 +157,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/Mayank.jpg"
+              src="/2.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard3() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR REPRESENTATIVE</strong>
+                  <strong>HOSPITALITY REPRESENTATIVE</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard3() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/mayank-saha-199072222/"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -249,4 +249,4 @@ function TeamCard3() {
   );
 }
 
-export default TeamCard3;
+export default TeamCard10;

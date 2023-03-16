@@ -34,7 +34,7 @@ function TeamCard5() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      MANAS TRIPATHI
+                    SATYANSH GUPTA
                     </span>
                   </strong>
                 </span>
@@ -72,7 +72,7 @@ function TeamCard5() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>LITERARY HEAD </strong>
+                <strong>PR REPRESENTATIVE</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard5() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/manas-tripathi-711320217/"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -145,7 +145,7 @@ function TeamCard5() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        TANISHA JAISWAL
+                      AYUSH SINGH
                       </span>
                     </span>
                   </strong>
@@ -186,7 +186,7 @@ function TeamCard5() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>EDITOR </strong>
+                  <strong>PR REPRESENTATIVE</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard5() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/tanisha-jaiswal-078780218/"
+              href="https://www.linkedin.com/"
               target="_blank"
               rel="noreferrer"
               style={{

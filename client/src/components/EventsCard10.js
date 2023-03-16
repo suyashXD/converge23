@@ -86,6 +86,8 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
+                  Participants compete in a security-themed challenge for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
+                  <br/>
                  Time: 02:00PM – 04:00PM
                 </span>
               
@@ -192,6 +194,17 @@ function EventsCard10() {
                   textAlign: "right",
                 }}
               >
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  "The Beauty Bar" is a makeup competition where participants will pick 3-4 chits from a bowl with names of cosmetics written on them. They will then use the corresponding makeup items from another bowl to create a complete look. The challenge encourages creativity and resourcefulness as participants must use the makeup items given to them to create a cohesive and polished look. The winner will be selected based on their overall makeup skills and the uniqueness of their final look. "The Beauty Bar" provides a fun and exciting opportunity for participants to showcase their creativity and makeup skills.
+                </span>
+                <br />
+
                 <span
                   style={{
                     color: "#ffffff",

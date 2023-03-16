@@ -73,7 +73,7 @@ function TeamCard2() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>MENTOR </strong>
+                <strong>PRISMATIC HEAD</strong>
               </span>
               <br />
             </p>
@@ -186,7 +186,7 @@ function TeamCard2() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>MENTOR </strong>
+                  <strong>BDS HEAD</strong>
                 </span>
               </p>
             </div>

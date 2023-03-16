@@ -86,8 +86,18 @@ function EventsCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  aliquam erat volutpat.
+                  Speak Tweak is an Elocution Competition that challenges participants to prepare and deliver a persuasive speech on a topic of their choice. The competition emphasizes originality, clarity, and coherence of thought, and participants are required to submit their speeches before the event to ensure that there is no plagiarism involved. With a speech duration of three minutes, this event promises to be a showcase of excellent public speaking skills.
                 </span>
+              <br/>
+              <span
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                Time: 10:00AM - 11:00AM
+              </span>
               
             </p>
           </div>
@@ -96,9 +106,9 @@ function EventsCard6() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="/EventsPage"
+              href="https://forms.gle/AyiFt265197A5nWe6"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -131,7 +141,7 @@ function EventsCard6() {
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">

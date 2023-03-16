@@ -86,6 +86,8 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
+                  "Beat Down" is a thrilling solo instrumental competition that invites music enthusiasts to showcase their skills on their chosen instrument. From guitar and drums to keyboard and saxophone, any instrument is welcome. Each participant will have a limited time to perform their instrumental piece, impressing the judges and the audience with their skills, style, and creativity. The winner of the competition will be selected based on their technical ability, musicality, and overall performance. Join us for an exciting battle of the beats and see who comes out on top!
+                <br/>
                  Time: 11:30AM – 01:00PM
                 </span>
               
@@ -200,6 +202,17 @@ function EventsCard12() {
                   }}
                 >
                   Venue: Ground{" "}
+                </span>
+                <br />
+
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  Groove is a group Western dance competition that challenges participants to showcase their best dance moves to a Western music beat. This event provides an exciting opportunity for dancers to demonstrate their skills and creativity, bringing together different styles and genres of Western dance. Participants will perform in groups, presenting their choreography, costumes, and music to the audience and judges. With a focus on teamwork, coordination, and entertainment, Groove promises to be a lively and dynamic competition that showcases the best in Western dance.
                 </span>
                 <br />
                 

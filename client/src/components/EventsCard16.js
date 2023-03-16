@@ -199,7 +199,7 @@ function EventsCard16() {
                     lineHeight: "19px",
                   }}
                 >
-                  Online Event{" "}
+                  An online theme based competition that will take entries via an online form and results will be displayed in the Photobooth and online on the Instagram page{" "}
                 </span>
                 <br />
                 
@@ -214,7 +214,7 @@ function EventsCard16() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://forms.gle/PP8DGDuY2cxCqQbe6"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

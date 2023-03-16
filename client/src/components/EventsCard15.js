@@ -86,6 +86,8 @@ function EventsCard15() {
                     lineHeight: "19px",
                   }}
                 >
+                  Debug Your Soul is an exciting event that challenges participants to debug faulty code and solve aptitude puzzles within a set time limit. Participants will need to use their problem-solving skills and programming knowledge to fix the code and solve the puzzles accurately and efficiently. The winner will be determined based on the speed and accuracy of their solutions. It's an excellent opportunity for aspiring programmers to showcase their debugging and aptitude skills in a competitive environment.
+                  <br/>
                  Time: 03:00PM – 04:00PM
                 </span>
               

@@ -80,6 +80,22 @@ function EventsCard11() {
               </span>
               <br />
               <span
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                ARTISION provides a perfect stage for artists to demonstrate their skills and push the limits of their creativity depicting any one of the themes:
+                <br/>
+-The last photo <br/>
+-Depiction of fear<br/>
+-Phobia
+
+              </span>
+              <br />
+
+              <span
                   style={{
                     color: "#ffffff",
                     fontSize: "16px",
@@ -210,6 +226,8 @@ function EventsCard11() {
                     lineHeight: "19px",
                   }}
                 >
+                  Sabrang is a group folk dance competition that welcomes all forms of pure Indian classical dance styles. This event offers an excellent opportunity for dancers to showcase their cultural heritage and folk traditions through the art of dance. Participants will perform in groups, presenting their choreography, costumes, and music to the audience and judges. The competition promises to be a vibrant and colorful celebration of Indian dance styles, allowing participants to showcase their creativity and skills while promoting cultural diversity.
+                  <br/>
                   Time: 10:00AM – 11:30AM
                 </span>
               </p>
@@ -222,7 +240,7 @@ function EventsCard11() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSd-Nnwfn9G4nCLNr2hKzcgJBtrXFj4PtnX5m_d2wQtJoAyTrg/viewform?usp=sf_link"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

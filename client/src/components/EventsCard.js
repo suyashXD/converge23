@@ -85,7 +85,7 @@ function EventsCard() {
                     lineHeight: "19px",
                   }}
                 >
-                  aliquam erat volutpat.
+                  Time: 04:00PM - 07:00PM
                 </span>
               </p>
             </div>
@@ -94,9 +94,9 @@ function EventsCard() {
             </div>
 
             <div className="bee-block bee-block-5 bee-button">
-              <Link
+              <a
                 className="bee-button-content"
-                to="/EventsPage"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfk0EMxsyjdiKeM4S_CYSNwDq87NvqrOkymuxhjwGHFbKT43g/viewform?vc=0&c=0&w=1&flr=0"
                 style={{
                   fontSize: "16px",
                   backgroundColor: "transparent",
@@ -129,7 +129,7 @@ function EventsCard() {
                 >
                   <strong style={{ fontSize: "16px" }}>REGISTER</strong>
                 </span>
-              </Link>
+              </a>
             </div>
           </div>
           <div className="bee-col bee-col-3 bee-col-w5">
@@ -198,37 +198,12 @@ function EventsCard() {
                     }}
                   >
                     Venue: Football Ground{" "}
+                    <br />
+                    Time: 04:00PM - 07:00PM
                   </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    adipiscing elit, sed diam nonummy nibh{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    euismod tincidunt ut laoreet dolore magna{" "}
-                  </span>
-                  <br />
-                  <span
-                    style={{
-                      color: "#ffffff",
-                      fontSize: "16px",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    aliquam erat volutpat.
-                  </span>
+                  
+                  
+                  
                 </p>
               </div>
             </div>
@@ -239,7 +214,7 @@ function EventsCard() {
             <div className="bee-block bee-block-5 bee-button">
               <a
                 className="bee-button-content"
-                href="https://www.example.com"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfk0EMxsyjdiKeM4S_CYSNwDq87NvqrOkymuxhjwGHFbKT43g/viewform?vc=0&c=0&w=1&flr=0"
                 style={{
                   fontSize: "16px",
                   backgroundColor: "transparent",

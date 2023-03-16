@@ -10,6 +10,17 @@ import TeamCard2 from "./components/TeamCard2";
 import TeamCard3 from "./components/TeamCard3";
 import TeamCard4 from "./components/TeamCard4";
 import TeamCard5 from "./components/TeamCard5";
+import TeamCard6 from "./components/TeamCard6";
+import TeamCard7 from "./components/TeamCard7";
+import TeamCard8 from "./components/TeamCard8";
+import TeamCard9 from "./components/TeamCard9";
+import TeamCard10 from "./components/TeamCard10";
+import TeamCard11 from "./components/TeamCard11";
+import TeamCard12 from "./components/TeamCard12";
+import TeamCard13 from "./components/TeamCard13";
+import TeamCard14 from "./components/TeamCard14";
+import TeamCard15 from "./components/TeamCard15";
+
 
 function TeamPage() {
   return (
@@ -307,6 +318,17 @@ function TeamPage() {
       <TeamCard3 />
       <TeamCard4 />
       <TeamCard5 />
+      <TeamCard6 />
+      <TeamCard7 />
+      <TeamCard8 />
+      <TeamCard9 />
+      <TeamCard10 />
+      <TeamCard11 />
+      <TeamCard12 />
+      <TeamCard13 />
+      <TeamCard14 />
+      <TeamCard15 />
+
 
       <Footer />
     </div>
