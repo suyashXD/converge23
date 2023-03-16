@@ -83,7 +83,9 @@ function TeamCard() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/siddhantjindal/" target="_blank" rel="noreferrer"
+              href="https://www.linkedin.com/in/siddhantjindal/"
+              target="_blank"
+              rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -104,7 +106,6 @@ function TeamCard() {
                 direction: "ltr",
                 display: "inline-block",
               }}
-              
             >
               <span
                 dir="ltr"
@@ -156,7 +157,7 @@ function TeamCard() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/Rahul-cropped.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -197,7 +198,9 @@ function TeamCard() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/rahul-pamnani-9834bb180/" target="_blank" rel="noreferrer"
+              href="https://www.linkedin.com/in/rahul-pamnani-9834bb180/"
+              target="_blank"
+              rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -218,7 +221,6 @@ function TeamCard() {
                 direction: "ltr",
                 display: "inline-block",
               }}
-              
             >
               <span
                 dir="ltr"

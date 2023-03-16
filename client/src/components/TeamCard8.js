@@ -34,7 +34,7 @@ function TeamCard8() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    PRATHAM BHARGAVA
+                      PRATHAM BHARGAVA
                     </span>
                   </strong>
                 </span>
@@ -45,7 +45,7 @@ function TeamCard8() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://i.ibb.co/xfvgqhb/Patham-1.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -145,7 +145,7 @@ function TeamCard8() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SHUBHAM SINGH
+                        SHUBHAM SINGH
                       </span>
                     </span>
                   </strong>

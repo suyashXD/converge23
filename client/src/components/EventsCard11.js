@@ -47,7 +47,7 @@ function EventsCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://i.ibb.co/5Mhzh3Q/Artision.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
