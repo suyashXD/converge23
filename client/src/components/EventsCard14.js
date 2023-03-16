@@ -35,11 +35,10 @@ function EventsCard13() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    MEHFIL
+                      MEHFIL
                     </span>
                   </strong>
                 </span>
-                
               </p>
             </div>
           </div>
@@ -80,15 +79,14 @@ function EventsCard13() {
               </span>
               <br />
               <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                 Time: 11:00AM – 04:00PM
-                </span>
-              
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                Time: 11:00AM – 04:00PM
+              </span>
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -202,7 +200,7 @@ function EventsCard13() {
                   Venue: LT 6{" "}
                 </span>
                 <br />
-                
+
                 <span
                   style={{
                     color: "#ffffff",
@@ -210,6 +208,9 @@ function EventsCard13() {
                     lineHeight: "19px",
                   }}
                 >
+                  Quiz will be based on the Linux Commands and about general
+                  open source. 
+                  <br/>
                   Time: 02:00PM – 03:00PM
                 </span>
               </p>

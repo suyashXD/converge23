@@ -35,11 +35,10 @@ function EventsCard11() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    ARTISION
+                      ARTISION
                     </span>
                   </strong>
                 </span>
-                
               </p>
             </div>
           </div>
@@ -86,25 +85,26 @@ function EventsCard11() {
                   lineHeight: "19px",
                 }}
               >
-                ARTISION provides a perfect stage for artists to demonstrate their skills and push the limits of their creativity depicting any one of the themes:
-                <br/>
--The last photo <br/>
--Depiction of fear<br/>
--Phobia
-
+                ARTISION provides a perfect stage for artists to demonstrate
+                their skills and push the limits of their creativity depicting
+                any one of the themes:
+                <br />
+                -The last photo <br />
+                -Depiction of fear
+                <br />
+                -Phobia
               </span>
               <br />
 
               <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                 Time: 01:00PM – 03:00PM
-                </span>
-              
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                Time: 01:00PM – 03:00PM
+              </span>
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -114,7 +114,7 @@ function EventsCard11() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://forms.gle/BESg7EHro1gfXQsj8"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -186,7 +186,7 @@ function EventsCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/Sabrang-Cropped.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -218,7 +218,7 @@ function EventsCard11() {
                   Venue: Ground{" "}
                 </span>
                 <br />
-                
+
                 <span
                   style={{
                     color: "#ffffff",
@@ -226,8 +226,17 @@ function EventsCard11() {
                     lineHeight: "19px",
                   }}
                 >
-                  Sabrang is a group folk dance competition that welcomes all forms of pure Indian classical dance styles. This event offers an excellent opportunity for dancers to showcase their cultural heritage and folk traditions through the art of dance. Participants will perform in groups, presenting their choreography, costumes, and music to the audience and judges. The competition promises to be a vibrant and colorful celebration of Indian dance styles, allowing participants to showcase their creativity and skills while promoting cultural diversity.
-                  <br/>
+                  Sabrang is a group folk dance competition that welcomes all
+                  forms of pure Indian classical dance styles. This event offers
+                  an excellent opportunity for dancers to showcase their
+                  cultural heritage and folk traditions through the art of
+                  dance. Participants will perform in groups, presenting their
+                  choreography, costumes, and music to the audience and judges.
+                  The competition promises to be a vibrant and colorful
+                  celebration of Indian dance styles, allowing participants to
+                  showcase their creativity and skills while promoting cultural
+                  diversity.
+                  <br />
                   Time: 10:00AM – 11:30AM
                 </span>
               </p>

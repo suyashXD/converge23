@@ -35,11 +35,10 @@ function EventsCard8() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    SUPER MARIO / KITERETSU
+                      SUPER MARIO
                     </span>
                   </strong>
                 </span>
-                
               </p>
             </div>
           </div>
@@ -80,17 +79,18 @@ function EventsCard8() {
               </span>
               <br />
               <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Teams have to build a manually controlled bot which can do simple tasks ofgripping blocks/shapes and inserting them into respective shaped grooves made in a cubic block.
-                 <br/> 
-                 Time: 11:00AM – 04:00PM
-                </span>
-              
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                Teams have to build a manually controlled bot which can do
+                simple tasks of gripping blocks/shapes and inserting them into
+                respective shaped grooves made in a cubic block.
+                <br />
+                Time: 11:00AM – 04:00PM
+              </span>
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -204,7 +204,7 @@ function EventsCard8() {
                   Venue: OAT{" "}
                 </span>
                 <br />
-                
+
                 <span
                   style={{
                     color: "#ffffff",

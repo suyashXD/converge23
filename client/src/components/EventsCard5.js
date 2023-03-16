@@ -85,7 +85,11 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                It will be a dance battle The winner of the battle goes on to the next round and the loser is knocked out of the competition. This goes on until there are two dancers, or two crews, left, at which point there is a final battle and an overall winner of the event is chosen.
+                It will be a dance battle The winner of the battle goes on to
+                the next round and the loser is knocked out of the competition.
+                This goes on until there are two dancers, or two crews, left, at
+                which point there is a final battle and an overall winner of the
+                event is chosen.
               </span>
               <br />
               <span
@@ -106,7 +110,7 @@ function EventsCard5() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href = "https://forms.gle/uhE5gtpe5kxqmmbZA"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSc2yEwpgnTm5BgA1r69K44q4GlX78t1wh1mgaqIbO-lJEw5yg/viewform"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -210,7 +214,7 @@ function EventsCard5() {
                   Venue: MPH{" "}
                 </span>
                 <br />
-                
+
                 <span
                   style={{
                     color: "#ffffff",
@@ -218,8 +222,17 @@ function EventsCard5() {
                     lineHeight: "19px",
                   }}
                 >
-                  "Bollywood Bash" is a vibrant and exciting fashion event with a Bollywood theme. Hosted by Panache, this event celebrates the rich and diverse culture of India and brings sophistication and glamour to life. Participants can showcase their creativity and fashion skills by creating their unique Bollywood-inspired outfits. The winner is selected based on their creativity, originality, and overall execution of their concept. "Bollywood Bash" provides an excellent opportunity for students to showcase their fashion skills and creativity in a fun and exciting way.
-                  <br/>
+                  "Bollywood Bash" is a vibrant and exciting fashion event with
+                  a Bollywood theme. Hosted by Panache, this event celebrates
+                  the rich and diverse culture of India and brings
+                  sophistication and glamour to life. Participants can showcase
+                  their creativity and fashion skills by creating their unique
+                  Bollywood-inspired outfits. The winner is selected based on
+                  their creativity, originality, and overall execution of their
+                  concept. "Bollywood Bash" provides an excellent opportunity
+                  for students to showcase their fashion skills and creativity
+                  in a fun and exciting way.
+                  <br />
                   Time: 02:00PM – 04:00PM
                 </span>
               </p>

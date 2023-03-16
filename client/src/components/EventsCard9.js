@@ -35,11 +35,10 @@ function EventsCard9() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    INFORMAL EVENTS
+                      KITERTSU
                     </span>
                   </strong>
                 </span>
-                
               </p>
             </div>
           </div>
@@ -80,15 +79,19 @@ function EventsCard9() {
               </span>
               <br />
               <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                 Time: 11:00AM – 04:00PM
-                </span>
-              
+                style={{
+                  color: "#ffffff",
+                  fontSize: "16px",
+                  lineHeight: "19px",
+                }}
+              >
+                In this event teams have to build a small bot with junk (it will
+                be provided by us) in a given time period. And the teams that
+                will be successful in making bot, they will be competing against
+                each other in a race. 
+                <br/>
+                Time: 11:00AM – 04:00PM
+              </span>
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -202,7 +205,7 @@ function EventsCard9() {
                   Venue: CL3{" "}
                 </span>
                 <br />
-                
+
                 <span
                   style={{
                     color: "#ffffff",
@@ -210,8 +213,15 @@ function EventsCard9() {
                     lineHeight: "19px",
                   }}
                 >
-                  Code Rage is a competitive programming event that challenges participants to solve DSA-based questions with accuracy, speed, and code optimality. The event is designed to test participants' coding skills, logical thinking, and problem-solving abilities. Participants will be evaluated based on their performance and the top performers will be awarded. This event is perfect for anyone who loves to code and wants to showcase their skills.
-                  <br/>
+                  Code Rage is a competitive programming event that challenges
+                  participants to solve DSA-based questions with accuracy,
+                  speed, and code optimality. The event is designed to test
+                  participants' coding skills, logical thinking, and
+                  problem-solving abilities. Participants will be evaluated
+                  based on their performance and the top performers will be
+                  awarded. This event is perfect for anyone who loves to code
+                  and wants to showcase their skills.
+                  <br />
                   Time: 12:00PM – 02:00PM
                 </span>
               </p>
