@@ -219,7 +219,7 @@ function TeamPage() {
                   <span style={{ fontSize: "34px", lineHeight: "40px" }}>
                     <strong>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        REGISTER HERE FOR THE EVENTS
+                        OUR TEAM
                       </span>
                     </strong>
                   </span>
@@ -282,16 +282,17 @@ function TeamPage() {
                       lineHeight: "19px",
                     }}
                   >
-                    The wait is finally over so Lights Camera Action! We bring
-                    to you CONVERGE 23 a celebration of talent, passion and a
-                    fusion of cultures. After three long years we are back with
-                    a bang and to turn this event into a blockbuster hit we need
-                    you to join us in our celebration. Do you have flair for
-                    debating or your moves can make people groove, an ace of
-                    sports or you hit the perfect note. Its time for you show
-                    what you've got! With a few easy steps you can register in
-                    the events of your choice and get a chance to win exciting
-                    prizes.
+                    JYC brings to you CONVERGE 2023...not a one man show but an
+                    effort of a family which has excelled to bring the most
+                    wholesome experience in our reach. The various hubs that JYC
+                    offers aim towards helping students hone their talents and
+                    teach them how to use it like an asset. No matter how
+                    diverse their qualities may be, students seem to find a hub
+                    where their skillset can be nurtured among the people having
+                    similar interests. The fest is one such initiative that
+                    works as a retreat from intense academic load and helps
+                    students inculcate essential qualities like confidence,
+                    teamwork and strong sense of accomplishment.
                   </span>
                 </p>
               </div>
@@ -328,7 +329,6 @@ function TeamPage() {
       <TeamCard13 />
       <TeamCard14 />
       <TeamCard15 />
-
 
       <Footer />
     </div>
