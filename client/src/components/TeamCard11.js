@@ -45,7 +45,7 @@ function TeamCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Saumya.jpg"
+              src="https://www.linkpicture.com/q/Saumya.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard11() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>AAKRITI REPRESENTATIVE</strong>
+                <strong>AAKRITI HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard11() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="http://www.linkedin.com/in/saumya-sharma-260328244"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard11() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>AURA REPRESENTATIVE</strong>
+                  <strong>AURA HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard11() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/amrinder-singh-sandhu-1b7014213"
               target="_blank"
               rel="noreferrer"
               style={{

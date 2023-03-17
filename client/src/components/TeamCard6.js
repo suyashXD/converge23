@@ -45,7 +45,7 @@ function TeamCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/1_282.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard6() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>PR REPRESENTATIVE</strong>
+                <strong>PR HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard6() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/deepak-mehta-2982901b8"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/Udbhav.png"
+              src="https://www.linkpicture.com/q/Udbhav.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PRISMATIC REPRESENTATIVE</strong>
+                  <strong>PRISMATIC HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard6() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://instagram.com/udbhav_475?igshid=ZDdkNTZiNTM="
               target="_blank"
               rel="noreferrer"
               style={{
@@ -230,7 +230,7 @@ function TeamCard6() {
                   lineHeight: "200%",
                 }}
               >
-                <strong style={{ fontSize: "16px" }}>LINKEDIN</strong>
+                <strong style={{ fontSize: "16px" }}>INSTAGRAM</strong>
               </span>
             </a>
           </div>

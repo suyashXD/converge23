@@ -45,7 +45,7 @@ function TeamCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Anurag.jpg"
+              src="https://www.linkpicture.com/q/Anurag.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard4() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>PR REPRESENTATIVE</strong>
+                <strong>PR HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard4() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/suvansh-kapoor-638979194/"
+              href="https://www.linkedin.com/in/anurag-verma-290411266"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR REPRESENTATIVE</strong>
+                  <strong>PR HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard4() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/abhay-singh-a25276221"
               target="_blank"
               rel="noreferrer"
               style={{

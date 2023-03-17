@@ -48,7 +48,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/1_282.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -172,7 +172,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/1_282.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>

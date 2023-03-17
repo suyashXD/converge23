@@ -45,7 +45,7 @@ function TeamCard7() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Manas.png"
+              src="https://www.linkpicture.com/q/Manas.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard7() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>ELOQUENCE REPRESENTATIVE</strong>
+                <strong>ELOQUENCE HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard7() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/manas-tripathi-711320217"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -145,7 +145,7 @@ function TeamCard7() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SARTHAK UTREJA
+                      AKHILESH AGARWAL
                       </span>
                     </span>
                   </strong>
@@ -157,7 +157,7 @@ function TeamCard7() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard7() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>BDS REPRESENTATIVE</strong>
+                  <strong>BDS HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard7() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/akhilesh-agarwal-b594aa202"
               target="_blank"
               rel="noreferrer"
               style={{

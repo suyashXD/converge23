@@ -45,7 +45,7 @@ function TeamCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Vidushi.jpg"
+              src="https://www.linkpicture.com/q/Vidushi.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard12() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>PANACHE REPRESENTATIVE</strong>
+                <strong>PANACHE HEAD</strong>
               </span>
               <br />
             </p>
@@ -157,7 +157,7 @@ function TeamCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/Tanmay.jpg"
+              src="https://www.linkpicture.com/q/Tanmay.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>CINEKALA REPRESENTATIVE</strong>
+                  <strong>CINEKALA HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard12() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/tanmay-gupta-7366681b5"
               target="_blank"
               rel="noreferrer"
               style={{

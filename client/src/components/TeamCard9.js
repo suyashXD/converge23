@@ -45,7 +45,7 @@ function TeamCard9() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Rohit.png"
+              src="https://www.linkpicture.com/q/Rohit.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard9() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>ABHIVYAKTI REPRESENTATIVE</strong>
+                <strong>ABHIVYAKTI HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard9() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/rohit-maheshwari-30b033201"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard9() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/Tejaswa.jpg"
+              src="https://www.linkpicture.com/q/Tejaswa.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard9() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>STUDENT WELFARE REPRESENTATIVE</strong>
+                  <strong>STUDENT WELFARE HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard9() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/tejaswa-singh-a7a6ba202"
               target="_blank"
               rel="noreferrer"
               style={{

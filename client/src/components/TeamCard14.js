@@ -45,7 +45,7 @@ function TeamCard14() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/1.jpg"
+              src="https://www.linkpicture.com/q/1_282.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard14() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>CICR REPRESENTATIVE</strong>
+                <strong>CICR HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard14() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/vivaan-jain-806677232"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard14() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard14() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>JODC REPRESENTATIVE</strong>
+                  <strong>JODC HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard14() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/shivam-rajput-24a0521b8"
               target="_blank"
               rel="noreferrer"
               style={{

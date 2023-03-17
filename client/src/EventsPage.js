@@ -64,7 +64,7 @@ function EventsPage() {
                 <img
                   alt="Alternate text"
                   className="bee-center bee-autowidth"
-                  src="white3dtext.png"
+                  src="https://www.linkpicture.com/q/white3dtext.png"
                   style={{ maxwidth: 428 }}
                 />
               </a>

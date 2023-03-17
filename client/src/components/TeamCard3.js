@@ -34,7 +34,7 @@ function TeamCard3() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SUVANSH KAPOOR
+                      SHIVANG SRIVASTAVA
                     </span>
                   </strong>
                 </span>
@@ -45,7 +45,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Suvansh.jpg"
+              src="https://www.linkpicture.com/q/1_282.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard3() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>CICR HEAD</strong>
+                <strong>PR HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard3() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/suvansh-kapoor-638979194/"
+              href="https://www.linkedin.com/in/shivang-srivastava-468439228"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/Mayank.jpg"
+              src="https://www.linkpicture.com/q/Mayank.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard3() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR REPRESENTATIVE</strong>
+                  <strong>PR HEAD</strong>
                 </span>
               </p>
             </div>

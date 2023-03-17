@@ -50,7 +50,7 @@ function HomePage() {
                 <img
                   alt="Alternate text"
                   className="bee-center bee-autowidth"
-                  src="white3dtext.png"
+                  src="https://www.linkpicture.com/q/white3dtext.png"
                   style={{ maxwidth: 428 }}
                 />
               </a>
@@ -369,7 +369,7 @@ function HomePage() {
               <img
                 alt="Band Thumbnail Placeholder"
                 className="bee-center bee-autowidth"
-                src="3.jpg"
+                src="https://www.linkpicture.com/q/3_1031.jpg"
                 style={{ maxwidth: 190 }}
               />
             </div>
@@ -379,7 +379,7 @@ function HomePage() {
               <img
                 alt="Headliner Thumbnail Placeholder"
                 className="bee-fixedwidth"
-                src="4.jpg"
+                src="https://www.linkpicture.com/q/4_75.jpg"
                 style={{ maxwidth: 401 }}
               />
             </div>
@@ -733,7 +733,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-center bee-fixedwidth"
-                src="23.png"
+                src="https://www.linkpicture.com/q/23_58.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -811,7 +811,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-fixedwidth"
-                src="25.png"
+                src="https://www.linkpicture.com/q/25_51.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -914,7 +914,7 @@ function HomePage() {
               <img
                 alt="Alternate text"
                 className="bee-autowidth"
-                src="26.png"
+                src="https://www.linkpicture.com/q/26_44.png"
                 style={{ maxwidth: 418 }}
               />
             </div>

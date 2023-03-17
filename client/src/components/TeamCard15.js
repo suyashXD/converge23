@@ -45,7 +45,7 @@ function TeamCard15() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Mohil.jpg"
+              src="https://www.linkpicture.com/q/Mohil.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard15() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>RPH REPRESENTATIVE</strong>
+                <strong>RPH HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard15() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/mohil-chitransh-aa0a92209"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard15() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard15() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>SPORTS REPRESENTATIVE</strong>
+                  <strong>SPORTS HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard15() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/rishabh-sharawat-981b501b7"
               target="_blank"
               rel="noreferrer"
               style={{

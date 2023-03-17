@@ -30,7 +30,7 @@ function Footer(){
                 <img
                   alt=""
                   className="bee-center bee-fixedwidth"
-                  src="OLogo3d.png"
+                  src="https://www.linkpicture.com/q/OLogo3d.png"
                   style={{ maxWidth: "169px" }}
                 />
               </a>

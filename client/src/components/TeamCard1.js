@@ -45,7 +45,7 @@ function TeamCard1() {
             <img
               alt="Batman"
               className="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard1() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>WEBSITE DESIGNING HEAD</strong>
+                <strong>COMMITTEE MEMBER</strong>
               </span>
               <br />
             </p>
@@ -156,7 +156,7 @@ function TeamCard1() {
             <img
               alt="Falcone"
               class="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Profile-Resize.jpg"
+              src="https://www.linkpicture.com/q/Aryaman.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -185,7 +185,7 @@ function TeamCard1() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>TECHNICAL HEAD</strong>
+                  <strong>COMMITTEE MEMBER</strong>
                 </span>
               </p>
             </div>

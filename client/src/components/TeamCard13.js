@@ -45,7 +45,7 @@ function TeamCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="/Pranjal.png"
+              src="https://www.linkpicture.com/q/Pranjal.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -72,7 +72,7 @@ function TeamCard13() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>FORTISSIMO REPRESENTATIVE</strong>
+                <strong>FORTISSIMO HEAD</strong>
               </span>
               <br />
             </p>
@@ -83,7 +83,7 @@ function TeamCard13() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/pranjal-pateriya-b3a3a321a"
               target="_blank"
               rel="noreferrer"
               style={{
@@ -157,7 +157,7 @@ function TeamCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="/2.jpg"
+              src="https://www.linkpicture.com/q/2_1254.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard13() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>CICR REPRESENTATIVE</strong>
+                  <strong>CICR HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard13() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/varnan-gupta-a246a31b8"
               target="_blank"
               rel="noreferrer"
               style={{
