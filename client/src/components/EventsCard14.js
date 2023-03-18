@@ -47,7 +47,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Abhivyakti.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -76,6 +76,10 @@ function EventsCard13() {
                 }}
               >
                 Venue: OAT{" "}
+                <br/>
+                Unleash your creativity and  showcase your unique voice through poetry, music, comedy, or any other art form you choose along with a chance to win exciting cash prizes. 
+Aaeye aur shaamil ho jaeye hamari mehfil mein.
+
               </span>
               <br />
               <span
@@ -85,7 +89,7 @@ function EventsCard13() {
                   lineHeight: "19px",
                 }}
               >
-                Time: 11:00AM – 04:00PM
+                Time: 10:00AM – 04:00PM
               </span>
             </p>
           </div>
@@ -96,7 +100,7 @@ function EventsCard13() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://forms.gle/AA7L7oKRLLfbHA3M9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

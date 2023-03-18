@@ -172,7 +172,7 @@ function EventsCard8() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Abhivyakti.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -202,6 +202,9 @@ function EventsCard8() {
                   }}
                 >
                   Venue: OAT{" "}
+                  <br/>
+                  Bored of your day-to-day life? Join us for an exciting bollywood event full of friends, games and laughter while getting a chance to win exciting cash prizes.
+                  
                 </span>
                 <br />
 
@@ -212,7 +215,7 @@ function EventsCard8() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 11:00AM – 04:00PM
+                  Time: 09:00AM – 05:00PM
                 </span>
               </p>
             </div>
@@ -224,7 +227,7 @@ function EventsCard8() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://forms.gle/AA7L7oKRLLfbHA3M9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

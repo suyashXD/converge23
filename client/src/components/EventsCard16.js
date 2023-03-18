@@ -48,7 +48,7 @@ function EventsCard16() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Gamerex.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -76,7 +76,7 @@ function EventsCard16() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Lab Area{" "}
+                Venue: Ground Entrance{" "}
               </span>
               <br />
               <span
@@ -86,7 +86,9 @@ function EventsCard16() {
                     lineHeight: "19px",
                   }}
                 >
-                 Time: 10:00AM – 04:00PM
+                 A console gaming competition free for everyone.
+                 <br/>
+                 No registration required.
                 </span>
               
             </p>
@@ -96,42 +98,7 @@ function EventsCard16() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
-              className="bee-button-content"
-              to="/EventsPage"
-              style={{
-                fontSize: "16px",
-                backgroundColor: "transparent",
-                borderBottom: "1px solid #FFFFFF",
-                borderLeft: "1px solid #FFFFFF",
-                borderRadius: "0px",
-                borderRight: "1px solid #FFFFFF",
-                borderTop: "1px solid #FFFFFF",
-                color: "#ffffff",
-                direction: "ltr",
-                fontFamily:
-                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                maxWidth: "100%",
-                paddingBottom: "5px",
-                paddingLeft: "20px",
-                paddingRight: "20px",
-                paddingTop: "5px",
-                width: "auto",
-                display: "inline-block",
-              }}
-              target="_self"
-            >
-              <span
-                dir="ltr"
-                style={{
-                  wordBreak: "break-word",
-                  fontSize: "16px",
-                  lineHeight: "200%",
-                }}
-              >
-                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
-              </span>
-            </Link>
+            
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -170,7 +137,7 @@ function EventsCard16() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/AURA-WHITE.png"
               style={{ maxWidth: "220px" }}
             />
           </div>

@@ -45,7 +45,7 @@ function TeamCard5() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Satyansh.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -157,7 +157,7 @@ function TeamCard5() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/2_1254.jpg"
+              src="https://www.linkpicture.com/q/Ayush.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>

@@ -157,7 +157,7 @@ function TeamCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/2_1254.jpg"
+              src="https://www.linkpicture.com/q/Abhay.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>

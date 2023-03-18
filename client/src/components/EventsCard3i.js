@@ -2,7 +2,7 @@ import React from "react";
 import "../index.css";
 import { Link } from "react-router-dom";
 
-function EventsCard12() {
+function EventsCard3i() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -35,11 +35,10 @@ function EventsCard12() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    BEATDOWN
+                      CARROM BOARD
                     </span>
                   </strong>
                 </span>
-                
               </p>
             </div>
           </div>
@@ -48,7 +47,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/beatdown.jpg"
+              src="https://www.linkpicture.com/q/sports.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -76,20 +75,11 @@ function EventsCard12() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Ground{" "}
+                Venue: MPH{" "}
+                <br/>
+                Time: 05:00PM - 07:00PM
               </span>
               <br />
-              <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Beat Down is a thrilling solo instrumental competition that invites music enthusiasts to showcase their skills on their chosen instrument. From guitar and drums to keyboard and saxophone, any instrument is welcome. Each participant will have a limited time to perform their instrumental piece, impressing the judges and the audience with their skills, style, and creativity. The winner of the competition will be selected based on their technical ability, musicality, and overall performance. Join us for an exciting battle of the beats and see who comes out on top!
-                <br/>
-                 Time: 11:00AM – 12:30PM
-                </span>
               
             </p>
           </div>
@@ -100,7 +90,7 @@ function EventsCard12() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/2raNm2CRU7t5dgLE7"
+              href = "https://docs.google.com/forms/d/e/1FAIpQLSfk0EMxsyjdiKeM4S_CYSNwDq87NvqrOkymuxhjwGHFbKT43g/viewform?vc=0&c=0&w=1&flr=0"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -160,7 +150,7 @@ function EventsCard12() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      GROOVE
+                      POWERLIFTING
                     </span>
                   </strong>
                 </span>
@@ -172,7 +162,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/sports.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -201,10 +191,10 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: Ground{" "}
+                  Venue: GYM{" "}
                 </span>
                 <br />
-
+               
                 <span
                   style={{
                     color: "#ffffff",
@@ -212,18 +202,7 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  Groove is a group Western dance competition that challenges participants to showcase their best dance moves to a Western music beat. This event provides an exciting opportunity for dancers to demonstrate their skills and creativity, bringing together different styles and genres of Western dance. Participants will perform in groups, presenting their choreography, costumes, and music to the audience and judges. With a focus on teamwork, coordination, and entertainment, Groove promises to be a lively and dynamic competition that showcases the best in Western dance.
-                </span>
-                <br />
-                
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Time: 01:00PM – 02:30PM
+                 Time: 05:00PM - 07:00PM
                 </span>
               </p>
             </div>
@@ -235,7 +214,7 @@ function EventsCard12() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfk0EMxsyjdiKeM4S_CYSNwDq87NvqrOkymuxhjwGHFbKT43g/viewform?vc=0&c=0&w=1&flr=0"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -285,4 +264,4 @@ function EventsCard12() {
   );
 }
 
-export default EventsCard12;
+export default EventsCard3i;

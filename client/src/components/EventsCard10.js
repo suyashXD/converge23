@@ -172,7 +172,7 @@ function EventsCard10() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -201,7 +201,7 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
-                  "The Beauty Bar" is a makeup competition where participants will pick 3-4 chits from a bowl with names of cosmetics written on them. They will then use the corresponding makeup items from another bowl to create a complete look. The challenge encourages creativity and resourcefulness as participants must use the makeup items given to them to create a cohesive and polished look. The winner will be selected based on their overall makeup skills and the uniqueness of their final look. "The Beauty Bar" provides a fun and exciting opportunity for participants to showcase their creativity and makeup skills.
+                  Venue: MPH{" "}
                 </span>
                 <br />
 
@@ -212,7 +212,10 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: MPH{" "}
+                  
+                  The Beauty Bar is a makeup competition where participants will pick 3-4 chits from a bowl with names of cosmetics written on them. They will then use the corresponding makeup items from another bowl to create a complete look. The challenge encourages creativity and resourcefulness as participants must use the makeup items given to them to create a cohesive and polished look. The winner will be selected based on their overall makeup skills and the uniqueness of their final look. The Beauty Bar provides a fun and exciting opportunity for participants to showcase their creativity and makeup skills.
+                  <br/>
+                  No registration required.
                 </span>
                 <br />
                 
@@ -223,7 +226,9 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 12:00PM – 01:00PM
+                  Time: 01:00PM – 02:00PM
+
+                
                 </span>
               </p>
             </div>
@@ -233,42 +238,7 @@ function EventsCard10() {
             <div className="spacer" style={{ height: 45 }}></div>
           </div>
           <div className="bee-block bee-block-5 bee-button">
-            <a
-              className="bee-button-content"
-              href="https://www.example.com"
-              style={{
-                fontSize: "16px",
-                backgroundColor: "transparent",
-                borderBottom: "1px solid #FFFFFF",
-                borderLeft: "1px solid #FFFFFF",
-                borderRadius: "0px",
-                borderRight: "1px solid #FFFFFF",
-                borderTop: "1px solid #FFFFFF",
-                color: "#ffffff",
-                direction: "ltr",
-                fontFamily:
-                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                maxWidth: "100%",
-                paddingBottom: "5px",
-                paddingLeft: "20px",
-                paddingRight: "20px",
-                paddingTop: "5px",
-                width: "auto",
-                display: "inline-block",
-              }}
-              target="_self"
-            >
-              <span
-                dir="ltr"
-                style={{
-                  wordBreak: "break-word",
-                  fontSize: "16px",
-                  lineHeight: "200%",
-                }}
-              >
-                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
-              </span>
-            </a>
+            
           </div>
 
           <div className="bee-block bee-block-6 bee-divider">

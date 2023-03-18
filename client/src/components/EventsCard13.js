@@ -48,7 +48,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -86,7 +86,7 @@ function EventsCard13() {
                   lineHeight: "19px",
                 }}
               >
-                Mr and Miss Converge is the ultimate fashion and personality competition where participants showcase their style, confidence, and charm. The event features various rounds including traditional wear, western wear, talent round, and a question-answer round where contestants are judged on their overall appearance, poise, and communication skills. The winner is crowned as Mr and Miss Converge and receives exciting prizes and recognition. Get ready to strut your stuff on the runway and show the world what you've got!
+                Mr. and Ms. Converge is the ultimate fashion and personality competition where participants showcase their style, confidence, and charm. The event features various rounds including traditional wear, western wear, talent round, and a question-answer round where contestants are judged on their overall appearance, poise, and communication skills. The winner is crowned as Mr and Miss Converge and receives exciting prizes and recognition. Get ready to strut your stuff on the runway and show the world what you've got!
               </span>
               <br />
               <span
@@ -96,7 +96,7 @@ function EventsCard13() {
                     lineHeight: "19px",
                   }}
                 >
-                 Time: 02:30PM – 04:00PM
+                 Time: 02:00PM – 04:00PM
                 </span>
               
             </p>
@@ -180,7 +180,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/eloquence.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -209,7 +209,7 @@ function EventsCard13() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: LT 1{" "}
+                  Venue: LT 6{" "}
                 </span>
                 <br />
 
@@ -231,7 +231,7 @@ function EventsCard13() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 10:00AM – 01:00PM
+                  Time: 11:00AM – 02:00PM
                 </span>
               </p>
             </div>

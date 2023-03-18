@@ -47,7 +47,7 @@ function EventsCard1() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/sports.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -86,7 +86,7 @@ function EventsCard1() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 04:00PM - 07:00PM
+                  Time: 05:00PM - 07:00PM
                 </span>
               
             </p>
@@ -170,7 +170,7 @@ function EventsCard1() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/sports.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -210,7 +210,7 @@ function EventsCard1() {
                     lineHeight: "19px",
                   }}
                 >
-                Time: 04:00PM - 07:00PM
+                Time: 05:00PM - 07:00PM
                 </span>
               </p>
             </div>

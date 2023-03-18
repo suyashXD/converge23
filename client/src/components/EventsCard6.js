@@ -47,7 +47,7 @@ function EventsCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/speaktweak.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -75,7 +75,7 @@ function EventsCard6() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: LT 1{" "}
+                Venue: MPH{" "}
               </span>
               <br />
               <span
@@ -95,7 +95,7 @@ function EventsCard6() {
                   lineHeight: "19px",
                 }}
               >
-                Time: 10:00AM - 11:00AM
+                Time: 09:00AM – 11:00AM
               </span>
               
             </p>
@@ -179,7 +179,7 @@ function EventsCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Brain-Battle.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -208,7 +208,7 @@ function EventsCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: LT 1{" "}
+                  Venue: LT 6{" "}
                 </span>
                 <br />
                 
@@ -219,7 +219,9 @@ function EventsCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  aliquam erat volutpat.
+                  The offline quiz challenge is a competitive event that tests participants' knowledge and skills in various areas. Teams compete in multiple rounds, starting with a qualifying round, and the difficulty level increases with each round. The event can include interactive challenges for the audience, and the winning team receives a prize. The quiz challenge promotes learning and is a fun way to bring people together.
+                  <br/>
+                  Time: 12:00PM – 02:00PM
                 </span>
               </p>
             </div>
@@ -231,7 +233,7 @@ function EventsCard6() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc%3D0%26amp;c%3D0%26amp;w%3D1%26amp;flr%3D0&sa=D&source=editors&ust=1679155764366186&usg=AOvVaw0p9tiuvZYbTSVxwK2D0RBX"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

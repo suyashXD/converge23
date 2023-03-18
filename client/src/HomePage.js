@@ -349,7 +349,7 @@ function HomePage() {
               <img
                 alt="Band Thumbnail Placeholder"
                 className="bee-center bee-autowidth"
-                src="1.jpg"
+                src="https://www.linkpicture.com/q/1_282.jpg"
                 style={{ maxwidth: 190 }}
               />
             </div>
@@ -359,7 +359,7 @@ function HomePage() {
               <img
                 alt="Band Thumbnail Placeholder"
                 className="bee-center bee-fixedwidth"
-                src="2.jpg"
+                src="https://www.linkpicture.com/q/2_1254.jpg"
                 style={{ maxwidth: 190 }}
               />
             </div>

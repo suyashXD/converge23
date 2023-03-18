@@ -35,7 +35,7 @@ function EventsCard7() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      QTIYAPA
+                      QUIZMANIA
                     </span>
                   </strong>
                 </span>
@@ -75,7 +75,7 @@ function EventsCard7() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Workshop Area{" "}
+                {" "}
               </span>
               <br />
               <span
@@ -85,13 +85,11 @@ function EventsCard7() {
                   lineHeight: "19px",
                 }}
               >
-                The main objective of this event is to provide a platform for
-                adventurous individuals who want to be a part of the popular
-                reality show "Roadies". The event will allow participants to
-                showcase their skills and personality, and potentially earn a
-                spot on the show.
+                The online quiz event provides an opportunity for people from all over the world to come together
+and test their knowledge in a fun and engaging way. It is an excellent way to promote learning and
+entertainment while connecting with others virtually.
                 <br />
-                Time: 11:00AM – 04:00PM
+                
               </span>
             </p>
           </div>
@@ -102,7 +100,7 @@ function EventsCard7() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="https://forms.gle/gTR74oWzoYR4qYMn9"
+              to="https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -217,7 +215,7 @@ function EventsCard7() {
                   This event is for friends, here two friends will make a pair
                   and participate in competitive events.
                   <br />
-                  Time: 11:00AM – 04:00PM
+                  Time: 10:00AM – 04:00PM
                 </span>
               </p>
             </div>

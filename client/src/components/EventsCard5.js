@@ -47,7 +47,7 @@ function EventsCard5() {
             <img
               alt="Best Foot Forward Profile"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Best-foot-forward-cropped.jpeg"
+              src="https://www.linkpicture.com/q/best-foot-forward.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -99,7 +99,7 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                Time: 12:00PM - 02:00PM
+                Time: 01:30PM – 03:00PM
               </span>
             </p>
           </div>
@@ -110,7 +110,7 @@ function EventsCard5() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSc2yEwpgnTm5BgA1r69K44q4GlX78t1wh1mgaqIbO-lJEw5yg/viewform"
+              href="https://forms.gle/uhE5gtpe5kxqmmbZA"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -182,7 +182,7 @@ function EventsCard5() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -222,18 +222,18 @@ function EventsCard5() {
                     lineHeight: "19px",
                   }}
                 >
-                  "Bollywood Bash" is a vibrant and exciting fashion event with
+                  Bollywood Bash is a vibrant and exciting fashion event with
                   a Bollywood theme. Hosted by Panache, this event celebrates
                   the rich and diverse culture of India and brings
                   sophistication and glamour to life. Participants can showcase
                   their creativity and fashion skills by creating their unique
                   Bollywood-inspired outfits. The winner is selected based on
                   their creativity, originality, and overall execution of their
-                  concept. "Bollywood Bash" provides an excellent opportunity
+                  concept. Bollywood Bash provides an excellent opportunity
                   for students to showcase their fashion skills and creativity
                   in a fun and exciting way.
                   <br />
-                  Time: 02:00PM – 04:00PM
+                  Time: 03:00PM – 05:00PM
                 </span>
               </p>
             </div>

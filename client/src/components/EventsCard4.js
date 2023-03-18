@@ -36,7 +36,7 @@ function EventsCard4() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      JIIT YOUTH MARATHON
+                      ROWDIES
                     </span>
                   </strong>
                 </span>
@@ -76,7 +76,7 @@ function EventsCard4() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Wish Town{" "}
+                Venue: Workshop Area{" "}
               </span>
               <br />
               <span
@@ -86,19 +86,55 @@ function EventsCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                 The JIIT Youth Marathon is an annual event held at J128. It is a platform to bring together students to compete and race in a 5K marathon. It is a great way for students to get together and enjoy the spirit of running, camaraderie, and healthy competition. The event has been successful in promoting physical fitness, sportsmanship, and creating an environment of fellowship among students from different backgrounds.
-                 
+                  The main objective of this event is to provide a platform for adventurous individuals who want to be a part of the popular reality show "Roadies". The event will allow participants to showcase their skills and personality, and potentially earn a spot on the show.
+                  <br/>
+                  Time: 09:00AM – 05:00PM                 
                 </span>
               
               
             </p>
-          </div>
-          <div className="bee-block bee-block-4 bee-divider">
+            </div>
+            <div className="bee-block bee-block-4 bee-divider">
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
-
-          <div className="bee-block bee-block-5 bee-button">
             
+          <div className="bee-block bee-block-5 bee-button">
+            <a
+              className="bee-button-content"
+              href="https://forms.gle/gTR74oWzoYR4qYMn9"
+              style={{
+                fontSize: "16px",
+                backgroundColor: "transparent",
+                borderBottom: "1px solid #FFFFFF",
+                borderLeft: "1px solid #FFFFFF",
+                borderRadius: "0px",
+                borderRight: "1px solid #FFFFFF",
+                borderTop: "1px solid #FFFFFF",
+                color: "#ffffff",
+                direction: "ltr",
+                fontFamily:
+                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
+                maxWidth: "100%",
+                paddingBottom: "5px",
+                paddingLeft: "20px",
+                paddingRight: "20px",
+                paddingTop: "5px",
+                width: "auto",
+                display: "inline-block",
+              }}
+              target="_self"
+            >
+              <span
+                dir="ltr"
+                style={{
+                  wordBreak: "break-word",
+                  fontSize: "16px",
+                  lineHeight: "200%",
+                }}
+              >
+                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
+              </span>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -137,7 +173,7 @@ function EventsCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/acoustica.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -179,7 +215,7 @@ function EventsCard4() {
                 >
                   The Acoustica is an exciting solo singing competition that showcases the talent and creativity of college students. Participants will have the opportunity to showcase their vocal skills and perform their favorite songs in front of a panel of judges and a live audience. The competition is open to all genres, including pop, rock, classical, and more. The winner will be chosen based on their vocal ability, stage presence, and overall performance. This competition is an excellent opportunity for students to showcase their singing talent and gain recognition for their skills.
                   <br/>
-                  Time: 10:30AM – 12:00PM
+                  Time: 12:00PM – 01:30PM
                 </span>
               </p>
             </div>
