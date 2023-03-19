@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import "./index.css";
 //import { Link } from "react-router-dom";
 //import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import TeamCard from "./components/TeamCard";
 import TeamCard1 from "./components/TeamCard1";
 import TeamCard2 from "./components/TeamCard2";
-import TeamCard3 from "./components/TeamCard3";
+//import TeamCard3 from "./components/TeamCard3";
 import TeamCard4 from "./components/TeamCard4";
 import TeamCard5 from "./components/TeamCard5";
 import TeamCard6 from "./components/TeamCard6";
@@ -21,8 +21,11 @@ import TeamCard13 from "./components/TeamCard13";
 import TeamCard14 from "./components/TeamCard14";
 import TeamCard15 from "./components/TeamCard15";
 
+function TeamPage(props) {
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scrolls to the top of the page on route change
+  }, [props.location]);
 
-function TeamPage() {
   return (
     <div className="bee-page-container">
       <div className="bee-row bee-row-1">
@@ -334,5 +337,6 @@ function TeamPage() {
     </div>
   );
 }
+
 
 export default TeamPage;

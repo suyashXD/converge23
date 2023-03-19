@@ -186,7 +186,7 @@ function TeamCard7() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>BDS HEAD</strong>
+                  <strong>BHANGDE DE SARTAAJ HEAD</strong>
                 </span>
               </p>
             </div>

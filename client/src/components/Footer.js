@@ -57,11 +57,7 @@ function Footer(){
                     <img alt="Facebook" src="facebook2x.png" title="facebook" />
                   </a>
                 </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a href="https://twitter.com/jiit_converge" target="_self">
-                    <img alt="Twitter" src="twitter2x.png" title="twitter" />
-                  </a>
-                </span>
+               
                 <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
                   <a
                     href="https://in.linkedin.com/school/converge-jiit-noida"
@@ -82,18 +78,10 @@ function Footer(){
                     />
                   </a>
                 </span>
+                
                 <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
                   <a
-                    href="https://www.youtube.com/channel/UCi--HXm4CBEpKhkt5oD4Q1A"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <img alt="YouTube" src="youtube2x.png" title="YouTube" />
-                  </a>
-                </span>
-                <span className="icon" style={{ padding: "0 2.5px 0 2.5px" }}>
-                  <a
-                    href="https://www.snapchat.com"
+                    href="https://www.snapchat.com/add/jiitconverge22?share_id=hrq48Bf5MAA&locale=en-IN"
                     target="_blank"
                     rel="noreferrer"
                   >

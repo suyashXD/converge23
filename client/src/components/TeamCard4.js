@@ -34,7 +34,7 @@ function TeamCard4() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      ANURAG VERMA
+                      MAYANK SAHA
                     </span>
                   </strong>
                 </span>
@@ -45,7 +45,7 @@ function TeamCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Anurag.jpg"
+              src="https://www.linkpicture.com/q/Mayank.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -83,7 +83,7 @@ function TeamCard4() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/anurag-verma-290411266"
+              href="https://www.linkedin.com/in/mayank-saha-199072222/"
               target="_blank"
               rel="noreferrer"
               style={{

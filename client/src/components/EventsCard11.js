@@ -226,7 +226,7 @@ function EventsCard11() {
                     lineHeight: "19px",
                   }}
                 >
-                  Group dance competition by BDS and Vamunique.
+                  Group dance competition by Bhangde De Sartaaj and Vamunique.
                   <br />
                   Time: 12:30AM – 02:30AM
                 </span>

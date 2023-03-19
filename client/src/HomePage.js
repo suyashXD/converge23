@@ -1,21 +1,36 @@
-import React from "react";
+import React, { Component }from "react";
 import "./index.css";
 import { Link } from "react-router-dom";
 //import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 //import EventsPage from "./EventsPage";
 //import TeamPage from "./TeamPage";
+import Strip from "./components/Strip";
 import Footer from "./components/Footer";
+import Timer from "./components/Timer";
 
-function HomePage() {
+class HomePage extends Component {
+  componentDidUpdate(prevProps) {
+    if (this.props.location !== prevProps.location) {
+      window.scrollTo(0, 0);
+    }
+  }
+
+render (){
   return (
     <div className="bee-page-container">
       <div className="bee-row bee-row-1">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
             <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 150 }}></div>
+              
+              <div className="spacer" style={{ height: 150 }}>
+              <Strip/>
+              </div>
+              
             </div>
+            
             <div className="bee-block bee-block-2 bee-text">
+            
               <div
                 className="bee-text-content"
                 style={{
@@ -81,6 +96,19 @@ function HomePage() {
                       }}
                     >
                       IS BACK!
+                      <br/>
+                    </span>
+                  </strong>
+                  <strong style={{}}>
+                    <span
+                      style={{
+                        color: "#ffffff",
+                        fontSize: "50px",
+                        lineHeight: "60px",
+                      }}
+                    >
+                      
+                      25th & 26th MARCH 2023
                     </span>
                   </strong>
                 </p>
@@ -179,9 +207,11 @@ function HomePage() {
                   </strong>
                 </p>
               </div>
+              <Timer/>
             </div>
+            
             <div className="bee-block bee-block-5 bee-divider">
-              <div className="spacer" style={{ height: 240 }}></div>
+              <div className="spacer" style={{ height: 180 }}></div>
             </div>
             <div className="bee-block bee-block-6 bee-text">
               <div
@@ -203,7 +233,7 @@ function HomePage() {
                   <span style={{ fontSize: "34px", lineHeight: "40px" }}>
                     <strong>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        EVENT REGISTRATIONS TO BE LIVE SOON
+                        REGISTRATIONS ARE LIVE NOW.
                       </span>
                     </strong>
                   </span>
@@ -268,14 +298,15 @@ function HomePage() {
                   >
                     The wait is finally over so Lights Camera Action! We bring
                     to you CONVERGE 23 a celebration of talent, passion and a
-                    fusion of cultures. After three long years we are back with
+                    fusion of cultures.<br/> After three long years we are back with
                     a bang and to turn this event into a blockbuster hit we need
                     you to join us in our celebration. Do you have flair for
                     debating or your moves can make people groove, an ace of
                     sports or you hit the perfect note. Its time for you show
                     what you've got! With a few easy steps you can register in
-                    the events of your choice and get a chance to win exciting
-                    prizes.
+                    the events of your choice for free and get a chance to win exciting
+                    cash prizes worth 1.70L rupees.
+
                   </span>
                 </p>
               </div>
@@ -705,9 +736,9 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    The four day journey is lined up with events from every
+                    The two day journey is lined up with events from every
                     corner of your imaginations that will hook you into your own
-                    depths of creativity. Tune in on March 23 to 26 to be part
+                    depths of creativity. Tune in on March 25 and 26 to be part
                     this spectacular show. Till then here's a sneak peak to all
                     thats about to happen.{" "}
                   </span>
@@ -721,6 +752,19 @@ function HomePage() {
           </div>
         </div>
       </div>
+      <div className="bee-row bee-row-10">
+        <div className="bee-row-content">
+          <div className="bee-col bee-col-1 bee-col-w12">
+            <div className="bee-block bee-block-1 bee-divider bee-desktop_hide">
+              <div className="spacer" style={{ height: 70 }}></div>
+            </div>
+            <div className="bee-block bee-block-2 bee-divider bee-mobile_hide">
+              <div className="spacer" style={{ height: 20 }}></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="bee-row bee-row-9">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w1">
@@ -733,7 +777,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-center bee-fixedwidth"
-                src="https://www.linkpicture.com/q/23_58.png"
+                src="https://www.linkpicture.com/q/25_51.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -759,7 +803,7 @@ function HomePage() {
                   <span style={{ fontSize: "50px", lineHeight: "60px" }}>
                     <strong style={{}}>
                       <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        DAY ZERO
+                        DAY ONE
                       </span>
                     </strong>
                   </span>
@@ -791,8 +835,7 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    Cricket, Football, Basketball, Volleyball, Lawn Tennis,
-                    Table Tennis, Badminton, Chess.
+                    JIIT Youth Marathon, Cricket, Football, Volleyball, Basketball, Lawn Tennis, Squash, Powerlifting, Table Tennis, Badminton, Carrom Board, Chess, Speak Tweak, Inaugural Ceremony, Artist, Acoustica, Best Foot Forward, Bollywood Bash, Brain Battle, Mario Robot Olympics, Junk Bot, Tamasha, Rowdies, Code Rage, Capture The Flag, The Beauty Bar, Artision.
                   </span>
                 </p>
               </div>
@@ -811,7 +854,7 @@ function HomePage() {
               <img
                 alt="Time Placeholder"
                 className="bee-fixedwidth"
-                src="https://www.linkpicture.com/q/25_51.png"
+                src="https://www.linkpicture.com/q/26_46.png"
                 style={{ maxwidth: 174 }}
               />
             </div>
@@ -838,7 +881,7 @@ function HomePage() {
                     <strong style={{}}>
                       <span style={{ lineHeight: "14px" }}>
                         <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                          DAY ONE
+                          DAY TWO
                         </span>
                       </span>
                     </strong>
@@ -871,11 +914,8 @@ function HomePage() {
                       lineHeight: "19px",
                     }}
                   >
-                    JIIT Youth Marathon, Cricket, Football, Volleyball,
-                    Basketball, Lawn Tennis, Table Tennis, Badminton, Chess,
-                    Inaugural Ceremony, Acoustica, Best Foot Forward, Bollywood
-                    Bash, Speak Tweak, Brain Battle, LFR, Tamasha, Code Rage,
-                    The Beauty Bar, Artision.
+                    Beatdown, FusionxBhangra,<br/>Mr. & Ms. Converge, Award Ceremony, Artist, Code Rage,<br/> Mario Robot Olympics, Junk Boat,<br/> Mehfil, Tu Jhooti Main Makar,<br/> Vaad Vivad, Quizosource,<br/> Debug Your Soul.
+
                   </span>
                 </p>
               </div>
@@ -890,102 +930,10 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <div className="bee-row bee-row-10">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w12">
-            <div className="bee-block bee-block-1 bee-divider bee-desktop_hide">
-              <div className="spacer" style={{ height: 70 }}></div>
-            </div>
-            <div className="bee-block bee-block-2 bee-divider bee-mobile_hide">
-              <div className="spacer" style={{ height: 20 }}></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="bee-row bee-row-11">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w2">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-2 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-image">
-              <img
-                alt="Alternate text"
-                className="bee-autowidth"
-                src="https://www.linkpicture.com/q/26_44.png"
-                style={{ maxwidth: 418 }}
-              />
-            </div>
-          </div>
-          <div className="bee-col bee-col-3 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 30 }}></div>
-            </div>
-            <div className="bee-block bee-block-2 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p style={{ fontSize: "14px", lineHeight: "16px" }}>
-                  <span style={{ fontSize: "50px", lineHeight: "60px" }}>
-                    <strong>
-                      <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        DAY TWO
-                      </span>
-                    </strong>
-                  </span>
-                </p>
-              </div>
-            </div>
 
-            <div className="bee-block bee-block-3 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#0e0e0e",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "left",
-                  }}
-                >
-                  <span
-                    style={{
-                      fontSize: "16px",
-                      color: "#ffffff",
-                      lineHeight: "19px",
-                    }}
-                  >
-                    Cricket, Football, Basketball, Volleyball, Lawn Tennis,
-                    Table Tennis, Badminton, Chess, Sabrang, Beatdown, Groove,
-                    Mr. &amp; Ms. Converge, Award Ceremony, Vaad Vivad,
-                    Questify, Code Rage, Mehfil, Open Source and Linux
-                    Conference, Debug Your Soul.
-                  </span>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-4 bee-col-w2">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-        </div>
-      </div>
+      
+      
+      
       <div className="bee-row bee-row-12">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
@@ -995,191 +943,7 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <div className="bee-row bee-row-13">
-        <div className="bee-row-content">
-          <div className="bee-col bee-col-1 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-2 bee-col-w3">
-            <div className="bee-block bee-block-1 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "left",
-                  }}
-                >
-                  <span style={{ fontSize: "24px", lineHeight: "28px" }}>
-                    <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      NEED
-                      <br />
-                      MORE?
-                    </span>
-                  </span>
-                </p>
-              </div>
-            </div>
-
-            <div className="bee-block bee-block-2 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  fontSize: "12px",
-                  lineHeight: "120%",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p style={{ fontSize: "12px", lineHeight: "14px" }}> </p>
-              </div>
-            </div>
-            <div className="bee-block bee-block-3 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  fontSize: "12px",
-                  lineHeight: "120%",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p style={{ fontSize: "12px", lineHeight: "14px" }}> </p>
-              </div>
-            </div>
-
-            <div className="bee-block bee-block-4 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "left",
-                  }}
-                >
-                  <span style={{ fontSize: "50px", lineHeight: "60px" }}>
-                    <strong style={{}}>
-                      <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        COUNTERS
-                      </span>
-                    </strong>
-                  </span>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-3 bee-col-w4">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: "100px" }}></div>
-            </div>
-            <div className="bee-block bee-block-2 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "left",
-                  }}
-                >
-                  <span style={{ fontSize: "50px", lineHeight: "60px" }}>
-                    <strong style={{}}>
-                      <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                        UNTIL DUSK
-                      </span>
-                    </strong>
-                  </span>
-                </p>
-              </div>
-            </div>
-
-            <div className="bee-block bee-block-3 bee-text">
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p></p>
-                <ul style={{ listStyleType: "square" }}>
-                  <li style={{ fontSize: "16px", lineHeight: "19px" }}>
-                    <span
-                      style={{
-                        fontSize: "16px",
-                        color: "#ffffff",
-                        lineHeight: "19px",
-                      }}
-                    >
-                      Crossword
-                    </span>
-                  </li>
-
-                  <li style={{ fontSize: "16px", lineHeight: "19px" }}>
-                    <span
-                      style={{
-                        fontSize: "16px",
-                        color: "#ffffff",
-                        lineHeight: "19px",
-                      }}
-                    >
-                      Gamerex
-                    </span>
-                  </li>
-                  <li style={{ fontSize: "16px", lineHeight: "19px" }}>
-                    <span
-                      style={{
-                        fontSize: "16px",
-                        color: "#ffffff",
-                        lineHeight: "19px",
-                      }}
-                    >
-                      Photo Booth
-                    </span>
-                  </li>
-                </ul>
-                <p></p>
-              </div>
-            </div>
-
-            <div className="bee-block bee-block-4 bee-divider">
-              <div className="spacer" style={{ height: 40 }}></div>
-            </div>
-          </div>
-          <div className="bee-col bee-col-4 bee-col-w2">
-            <div className="bee-block bee-block-1 bee-divider">
-              <div className="spacer" style={{ height: 0 }}></div>
-            </div>
-          </div>
-        </div>
-      </div>
+      
       <div className="bee-row bee-row-14">
         <div className="bee-row-content">
           <div className="bee-col bee-col-1 bee-col-w12">
@@ -1348,6 +1112,17 @@ function HomePage() {
                       Reel Tales
                     </span>
                   </li>
+                  <li style={{ fontSize: "16px", lineHeight: "19px" }}>
+                    <span
+                      style={{
+                        fontSize: "16px",
+                        color: "#ffffff",
+                        lineHeight: "19px",
+                      }}
+                    >
+                      Quizmania
+                    </span>
+                  </li>
                 </ul>
                 <p></p>
               </div>
@@ -1433,6 +1208,7 @@ function HomePage() {
       <Footer />
     </div>
   );
+}
 }
 
 export default HomePage;

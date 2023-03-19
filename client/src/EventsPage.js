@@ -1,11 +1,7 @@
-import React from "react";
+import React,{useEffect} from "react";
 import "./index.css";
 import EventsCard from "./components/EventsCard";
-import EventsCard1 from "./components/EventsCard1";
-import EventsCard2 from "./components/EventsCard2";
-import EventsCard3 from "./components/EventsCard3";
-import EventsCard3i from "./components/EventsCard3i";
-import EventsCard3ii from "./components/EventsCard3ii";
+
 
 import EventsCard4 from "./components/EventsCard4";
 import EventsCard5 from "./components/EventsCard5";
@@ -23,7 +19,12 @@ import EventsCard16 from "./components/EventsCard16";
 import EventsCard17 from "./components/EventsCard17";
 import Footer from "./components/Footer";
 
-function EventsPage() {
+
+function EventsPage(props) {
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scrolls to the top of the page on route change
+  }, [props.location]);
+ 
   return (
     <div className="bee-page-container">
       <div className="bee-row bee-row-1">
@@ -313,11 +314,8 @@ function EventsPage() {
         </div>
       </div>
       <EventsCard />
-      <EventsCard1 />
-      <EventsCard2 />
-      <EventsCard3 />
-      <EventsCard3i />
-      <EventsCard3ii />
+      
+      
       <EventsCard4 />
       <EventsCard5 />
       <EventsCard6 />
@@ -336,5 +334,6 @@ function EventsPage() {
     </div>
   );
 }
+
 
 export default EventsPage;

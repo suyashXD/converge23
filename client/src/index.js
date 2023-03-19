@@ -8,9 +8,9 @@ import TeamPage from './TeamPage';
 ReactDOM.render(
   <Router>
     <Routes>
-      <Route exact path='/' element={<HomePage/>}/>
-      <Route path="/EventsPage" element={<EventsPage/>} />
-      <Route path="/TeamPage" element={<TeamPage/>} />
+      <Route exact path='/' element={<HomePage location={window.location} />}/>
+      <Route path="/EventsPage" element={<EventsPage location={window.location} />} />
+      <Route path="/TeamPage" element={<TeamPage location={window.location} />} />
     </Routes>
   </Router>,
   document.getElementById('root')

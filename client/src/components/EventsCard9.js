@@ -103,7 +103,7 @@ Round 2 – Race between the robots that are qualified.
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://forms.gle/YL2Fwc6vfyYKnhN3A"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

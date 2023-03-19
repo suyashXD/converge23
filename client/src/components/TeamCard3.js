@@ -145,7 +145,7 @@ function TeamCard3() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        MAYANK SAHA
+                        ANURAG VERMA
                       </span>
                     </span>
                   </strong>
@@ -157,7 +157,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Mayank.jpg"
+              src="https://www.linkpicture.com/q/Anurag.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -198,7 +198,7 @@ function TeamCard3() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/mayank-saha-199072222/"
+              href="https://www.linkedin.com/in/anurag-verma-290411266"
               target="_blank"
               rel="noreferrer"
               style={{
