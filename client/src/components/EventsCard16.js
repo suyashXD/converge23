@@ -137,7 +137,7 @@ function EventsCard16() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/AURA-WHITE.png"
+              src="https://www.linkpicture.com/q/Aura_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>

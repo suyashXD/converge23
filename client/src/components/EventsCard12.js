@@ -160,7 +160,7 @@ function EventsCard12() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      GROOVE
+                      CRYPTO TRADE ROYALE
                     </span>
                   </strong>
                 </span>
@@ -172,7 +172,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Crypto.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -201,7 +201,7 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: Ground{" "}
+                  
                 </span>
                 <br />
 
@@ -211,8 +211,8 @@ function EventsCard12() {
                     fontSize: "16px",
                     lineHeight: "19px",
                   }}
-                >
-                  Groove is a group Western dance competition that challenges participants to showcase their best dance moves to a Western music beat. This event provides an exciting opportunity for dancers to demonstrate their skills and creativity, bringing together different styles and genres of Western dance. Participants will perform in groups, presenting their choreography, costumes, and music to the audience and judges. With a focus on teamwork, coordination, and entertainment, Groove promises to be a lively and dynamic competition that showcases the best in Western dance.
+                >The main objective of this event is to make the participants learn about the stock market and trading in a simulated environment aiming to provide as close experience to the real market as possible. The event is open to all individuals from various backgrounds. No as such prior knowledge is needed to participate. Anyone interested in learning about trading and investments can apply.
+
                 </span>
                 <br />
                 
@@ -223,7 +223,7 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 01:00PM – 02:30PM
+                  
                 </span>
               </p>
             </div>
@@ -235,7 +235,7 @@ function EventsCard12() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://docs.google.com/forms/d/1WAZTIEf8eMV6R8SsVTA0uJnEMTBRRdviIBEtauTHH8U/edit?ts=64134960"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

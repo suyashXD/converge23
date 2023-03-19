@@ -35,7 +35,7 @@ function EventsCard8() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SUPER MARIO
+                      MARIO ROBOT OLYMPICS
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard8() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/CICR_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -84,12 +84,9 @@ function EventsCard8() {
                   fontSize: "16px",
                   lineHeight: "19px",
                 }}
-              >
-                Teams have to build a manually controlled bot which can do
-                simple tasks of gripping blocks/shapes and inserting them into
-                respective shaped grooves made in a cubic block.
+              >A time base manual bot event that can lift 15x15cm boxes placed at specific location on the tack 
                 <br />
-                Time: 11:00AM – 04:00PM
+                Time: 10:00AM – 04:00PM
               </span>
             </p>
           </div>
@@ -100,7 +97,7 @@ function EventsCard8() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://forms.gle/xEyb3C5PejhD5pNJ9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

@@ -316,7 +316,7 @@ function TeamPage() {
       <TeamCard />
       <TeamCard1 />
       <TeamCard2 />
-      <TeamCard3 />
+      
       <TeamCard4 />
       <TeamCard5 />
       <TeamCard6 />

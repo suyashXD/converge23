@@ -42,12 +42,18 @@ function TeamCard1() {
             </div>
           </div>
           <div className="bee-block bee-block-3 bee-image">
+          <a
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img
               alt="Batman"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/2_1254.jpg"
+              src="https://www.linkpicture.com/q/Zucc.jpg"
               style={{ maxWidth: "220px" }}
             />
+            </a>
           </div>
           <div
             className="bee-block bee-block-3 bee-text"
@@ -72,7 +78,7 @@ function TeamCard1() {
                   lineHeight: "19px",
                 }}
               >
-                <strong>COMMITTEE MEMBER</strong>
+                <strong>MENTOR</strong>
               </span>
               <br />
             </p>
@@ -185,7 +191,7 @@ function TeamCard1() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>COMMITTEE MEMBER</strong>
+                  <strong>MENTOR</strong>
                 </span>
               </p>
             </div>

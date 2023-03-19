@@ -174,7 +174,7 @@ function EventsCard11() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      SABRANG
+                      FUSIONXBHANGRA
                     </span>
                   </strong>
                 </span>
@@ -226,18 +226,9 @@ function EventsCard11() {
                     lineHeight: "19px",
                   }}
                 >
-                  Sabrang is a group folk dance competition that welcomes all
-                  forms of pure Indian classical dance styles. This event offers
-                  an excellent opportunity for dancers to showcase their
-                  cultural heritage and folk traditions through the art of
-                  dance. Participants will perform in groups, presenting their
-                  choreography, costumes, and music to the audience and judges.
-                  The competition promises to be a vibrant and colorful
-                  celebration of Indian dance styles, allowing participants to
-                  showcase their creativity and skills while promoting cultural
-                  diversity.
+                  Group dance competition by BDS and Vamunique.
                   <br />
-                  Time: 10:00AM – 11:30AM
+                  Time: 12:30AM – 02:30AM
                 </span>
               </p>
             </div>
@@ -249,7 +240,7 @@ function EventsCard11() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSd-Nnwfn9G4nCLNr2hKzcgJBtrXFj4PtnX5m_d2wQtJoAyTrg/viewform?usp=sf_link"
+              href="https://forms.gle/wLgV4HNEzddGoxc47"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

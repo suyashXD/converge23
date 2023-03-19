@@ -45,7 +45,7 @@ function TeamCard3() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Shivang.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>

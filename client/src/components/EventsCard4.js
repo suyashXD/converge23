@@ -48,7 +48,7 @@ function EventsCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/SW_2.png"
               style={{ maxWidth: "220px" }}
             />
           </div>

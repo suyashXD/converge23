@@ -35,7 +35,7 @@ function EventsCard9() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      KITERTSU
+                      JUNK BOT
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard9() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/CICR_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -75,7 +75,7 @@ function EventsCard9() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Workshop Area{" "}
+                Venue: Ground Entrance{" "}
               </span>
               <br />
               <span
@@ -85,12 +85,14 @@ function EventsCard9() {
                   lineHeight: "19px",
                 }}
               >
-                In this event teams have to build a small bot with junk (it will
-                be provided by us) in a given time period. And the teams that
-                will be successful in making bot, they will be competing against
-                each other in a race. 
+                A robot has to be made with junks provided on the arena.
                 <br/>
-                Time: 11:00AM – 04:00PM
+Round 1 - Making of robot within a stipulated time given frame. 
+<br/>
+Round 2 – Race between the robots that are qualified.
+
+                <br/>
+                Time: 10:00AM – 04:00PM
               </span>
             </p>
           </div>
@@ -173,7 +175,7 @@ function EventsCard9() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/RPH_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -202,7 +204,7 @@ function EventsCard9() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: CL3{" "}
+                  Venue: CL 3{" "}
                 </span>
                 <br />
 
@@ -222,7 +224,7 @@ function EventsCard9() {
                   awarded. This event is perfect for anyone who loves to code
                   and wants to showcase their skills.
                   <br />
-                  Time: 12:00PM – 02:00PM
+                  Time: 01:00PM – 03:00PM
                 </span>
               </p>
             </div>
@@ -234,7 +236,7 @@ function EventsCard9() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://forms.gle/g6U6hyZshFyyg9Tb8"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

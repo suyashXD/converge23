@@ -48,7 +48,7 @@ function EventsCard15() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/RPH_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -100,7 +100,7 @@ function EventsCard15() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://forms.gle/fpWQRXS7KBwfYxCQ6"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -172,7 +172,7 @@ function EventsCard15() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Crossword.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -202,6 +202,9 @@ function EventsCard15() {
                   }}
                 >
                   Venue: Ground Entrance{" "}
+                  <br/>
+                  A crossword competition by Eloquence.
+                  No registration required.
                 </span>
                 <br />
                 
@@ -212,7 +215,7 @@ function EventsCard15() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 10:00AM – 04:00PM
+                  
                 </span>
               </p>
             </div>
@@ -222,42 +225,7 @@ function EventsCard15() {
             <div className="spacer" style={{ height: 45 }}></div>
           </div>
           <div className="bee-block bee-block-5 bee-button">
-            <a
-              className="bee-button-content"
-              href="https://www.example.com"
-              style={{
-                fontSize: "16px",
-                backgroundColor: "transparent",
-                borderBottom: "1px solid #FFFFFF",
-                borderLeft: "1px solid #FFFFFF",
-                borderRadius: "0px",
-                borderRight: "1px solid #FFFFFF",
-                borderTop: "1px solid #FFFFFF",
-                color: "#ffffff",
-                direction: "ltr",
-                fontFamily:
-                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                maxWidth: "100%",
-                paddingBottom: "5px",
-                paddingLeft: "20px",
-                paddingRight: "20px",
-                paddingTop: "5px",
-                width: "auto",
-                display: "inline-block",
-              }}
-              target="_self"
-            >
-              <span
-                dir="ltr"
-                style={{
-                  wordBreak: "break-word",
-                  fontSize: "16px",
-                  lineHeight: "200%",
-                }}
-              >
-                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
-              </span>
-            </a>
+            
           </div>
 
           <div className="bee-block bee-block-6 bee-divider">

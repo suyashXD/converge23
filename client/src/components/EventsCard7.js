@@ -47,7 +47,7 @@ function EventsCard7() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Quriosity.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -172,7 +172,7 @@ entertainment while connecting with others virtually.
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/SW_2.png"
               style={{ maxWidth: "220px" }}
             />
           </div>

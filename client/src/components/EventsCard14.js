@@ -169,10 +169,10 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
           </div>
 
           <div className="bee-block bee-block-3 bee-image">
-            <img
+          <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/JODC_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -227,7 +227,7 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.example.com"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScfWUZKmRkCbxgaIZrB4DL0Yx7i7fMh204OTxS4q-FDGzWN_w/viewform?usp=sf_link"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

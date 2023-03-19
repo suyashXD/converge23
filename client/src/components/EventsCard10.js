@@ -48,7 +48,7 @@ function EventsCard10() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/JODC_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -76,7 +76,7 @@ function EventsCard10() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: CL3{" "}
+                Venue: CL 3{" "}
               </span>
               <br />
               <span
@@ -88,7 +88,7 @@ function EventsCard10() {
                 >
                   Participants compete in a security-themed challenge for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
                   <br/>
-                 Time: 02:00PM – 04:00PM
+                 Time: 03:00PM – 05:00PM
                 </span>
               
             </p>
@@ -100,7 +100,7 @@ function EventsCard10() {
           <div className="bee-block bee-block-5 bee-button">
             <Link
               className="bee-button-content"
-              to="/EventsPage"
+              to="https://docs.google.com/forms/d/e/1FAIpQLScfWUZKmRkCbxgaIZrB4DL0Yx7i7fMh204OTxS4q-FDGzWN_w/viewform?usp=sf_link"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

@@ -155,7 +155,7 @@ short time frame.{" "}
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      QUESTIFY
+                      PHOTO BOOTH
                     </span>
                   </strong>
                 </span>
@@ -167,7 +167,7 @@ short time frame.{" "}
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/1_282.jpg"
+              src="https://www.linkpicture.com/q/Aura_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -196,7 +196,7 @@ short time frame.{" "}
                     lineHeight: "19px",
                   }}
                 >
-                  Online Event{" "}
+                  Aura's photo booth counter provides a fun and easy way for people to capture memories with their friends.{" "}
                 </span>
                 <br />
                 
@@ -209,42 +209,7 @@ short time frame.{" "}
             <div className="spacer" style={{ height: 45 }}></div>
           </div>
           <div className="bee-block bee-block-5 bee-button">
-            <a
-              className="bee-button-content"
-              href="https://www.example.com"
-              style={{
-                fontSize: "16px",
-                backgroundColor: "transparent",
-                borderBottom: "1px solid #FFFFFF",
-                borderLeft: "1px solid #FFFFFF",
-                borderRadius: "0px",
-                borderRight: "1px solid #FFFFFF",
-                borderTop: "1px solid #FFFFFF",
-                color: "#ffffff",
-                direction: "ltr",
-                fontFamily:
-                  "'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif",
-                maxWidth: "100%",
-                paddingBottom: "5px",
-                paddingLeft: "20px",
-                paddingRight: "20px",
-                paddingTop: "5px",
-                width: "auto",
-                display: "inline-block",
-              }}
-              target="_self"
-            >
-              <span
-                dir="ltr"
-                style={{
-                  wordBreak: "break-word",
-                  fontSize: "16px",
-                  lineHeight: "200%",
-                }}
-              >
-                <strong style={{ fontSize: "16px" }}>REGISTER</strong>
-              </span>
-            </a>
+            
           </div>
 
           <div className="bee-block bee-block-6 bee-divider">
