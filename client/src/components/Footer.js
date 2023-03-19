@@ -16,12 +16,40 @@ function Footer(){
       </div>
       <div className="bee-row bee-row-19">
         <div className="bee-row-content">
+
+        <div className="bee-col bee-col-1 bee-col-w1">
+            <div className="bee-block bee-block-1 bee-divider">
+              <div className="spacer" style={{ height: 0 }}></div>
+            </div>
+          </div>
+
+
           <div className="bee-col bee-col-1 bee-col-w4">
             <div className="bee-block bee-block-1 bee-divider">
               <div
                 className="center bee-separator"
                 style={{ borderTop: "1px solid #0E0E0E", width: "100%" }}
               ></div>
+              <p
+                style={{
+                  color: "#FFFFFF",
+                  fontSize: "18px",
+                  fontFamily:
+                    "Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif",
+                  lineHeight: "120%",
+                  textAlign: "left",
+                  direction: "ltr",
+                  fontWeight: "180",
+                  letterSpacing: "normal",
+                  marginTop: "10vh",
+                  marginBottom: "10vh",
+                }}
+              >
+                <span className="tinyMce-placeholder">
+                Address:<br/> Jaypee Institute of Information Technology, Sector 128, Noida, 201304, Uttar Pradesh
+                </span>
+              </p>
+              
             </div>
           </div>
           <div className="bee-col bee-col-2 bee-col-w4">
@@ -97,6 +125,35 @@ function Footer(){
                 className="center bee-separator"
                 style={{ borderTop: "1px solid #0E0E0E", width: "100%" }}
               ></div>
+              <p
+                style={{
+                  color: "#FFFFFF",
+                  fontSize: "18px",
+                  fontFamily:
+                    "Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif",
+                  lineHeight: "120%",
+                  textAlign: "right",
+                  direction: "ltr",
+                  fontWeight: "180",
+                  letterSpacing: "normal",
+                  marginTop: "10vh",
+                  marginBottom: "10vh",
+                }}
+              >
+                <span className="tinyMce-placeholder">
+                Contact:<br/>
+                Siddhant Jindal: +917060097097
+                <br/>
+                Rahul Pamnani: +918949222096
+                </span>
+              </p>
+              
+            </div>
+            
+          </div>
+          <div className="bee-col bee-col-4 bee-col-w1">
+            <div className="bee-block bee-block-1 bee-divider">
+              <div className="spacer" style={{ height: 0 }}></div>
             </div>
           </div>
         </div>

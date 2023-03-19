@@ -22,7 +22,7 @@ import Footer from "./components/Footer";
 
 function EventsPage(props) {
   useEffect(() => {
-    window.scrollTo(0, 0); // Scrolls to the top of the page on route change
+    window.scrollTo(0, 205*window.innerHeight / 100); // Scrolls to the top of the page on route change
   }, [props.location]);
  
   return (

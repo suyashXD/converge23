@@ -44,7 +44,7 @@ function Timer() {
           <div className="time"><strong>{seconds}</strong></div>
         </div>
         <br/>
-        <p style={{color: "white"}}><strong>25th MARCH 2023</strong></p>
+        
       </div>
     </div>
   );

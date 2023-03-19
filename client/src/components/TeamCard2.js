@@ -84,7 +84,7 @@ function TeamCard2() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.linkedin.com/in/aman-nagpal-5216451b0/" target="_blank" rel="noreferrer"
+              href="http://instagram.com/_aman_nagpal_" target="_blank" rel="noreferrer"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -115,7 +115,7 @@ function TeamCard2() {
                   lineHeight: "200%",
                 }}
               >
-                <strong style={{ fontSize: "16px" }}>LINKEDIN</strong>
+                <strong style={{ fontSize: "16px" }}>INSTAGRAM</strong>
               </span>
             </a>
           </div>
