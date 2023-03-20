@@ -145,7 +145,7 @@ function TeamCard2() {
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px" }}>
                       <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                        ANURAG VERMA
+                      UDBHAV KHARETIA
                       </span>
                     </span>
                   </strong>
@@ -157,7 +157,7 @@ function TeamCard2() {
             <img
               alt="Band Thumbnail Placeholder"
               class="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Anurag.jpg"
+              src="https://www.linkpicture.com/q/Udbhav.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -186,7 +186,7 @@ function TeamCard2() {
                     lineHeight: "19px",
                   }}
                 >
-                  <strong>PR HEAD</strong>
+                  <strong>PRISMATIC HEAD</strong>
                 </span>
               </p>
             </div>
@@ -198,7 +198,7 @@ function TeamCard2() {
           <div class="bee-block bee-block-5 bee-button">
             <a
               class="bee-button-content"
-              href="https://www.linkedin.com/in/anurag-verma-290411266"
+              href="https://instagram.com/udbhav_475?igshid=ZDdkNTZiNTM="
               target="_blank"
               rel="noreferrer"
               style={{
@@ -230,7 +230,7 @@ function TeamCard2() {
                   lineHeight: "200%",
                 }}
               >
-                <strong style={{ fontSize: "16px" }}>LINKEDIN</strong>
+                <strong style={{ fontSize: "16px" }}>INSTAGRAM</strong>
               </span>
             </a>
           </div>
