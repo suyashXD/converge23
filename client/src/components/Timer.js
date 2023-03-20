@@ -37,28 +37,28 @@ function Timer() {
         
         
         <div className="timer">
-        <div className="time"><strong>{days}</strong>
+        <div className="time" style={{color: "white", fontSize:"50px"}}><strong>{days}</strong>
         <div> 
-        <p style={{color: "white"}}><strong>DAYS</strong></p>
+        <p style={{color: "white", fontSize:"10px"}}><strong>DAYS</strong></p>
           </div>
         </div>
         <span style={{color: "white"}}><strong>:</strong></span>
-          <div className="time"><strong>{hours}</strong>
+          <div className="time" style={{color: "white", fontSize:"50px"}}><strong>{hours}</strong>
           <div> 
-        <p style={{color: "white"}}><strong>HOURS</strong></p>
+        <p style={{color: "white",fontSize:"10px"}}><strong>HOURS</strong></p>
           </div>
           </div>
           
           <span style={{color: "white"}}><strong>:</strong></span>
-          <div className="time"><strong>{minutes}</strong>
+          <div className="time" style={{color: "white", fontSize:"50px"}}><strong>{minutes}</strong>
           <div> 
-        <p style={{color: "white"}}><strong>MINUTES</strong></p>
+        <p style={{color: "white",fontSize:"10px"}}><strong>MINUTES</strong></p>
           </div>
           </div>
           <span style={{color: "white"}}><strong>:</strong></span>
-          <div className="time"><strong>{seconds}</strong>
+          <div className="time" style={{color: "white", fontSize:"50px"}}><strong>{seconds}</strong>
           <div> 
-        <p style={{color: "white"}}><strong>SECONDS</strong></p>
+        <p style={{color: "white",fontSize:"10px"}}><strong>SECONDS</strong></p>
           </div>
           </div>
         </div>

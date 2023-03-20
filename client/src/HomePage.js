@@ -138,7 +138,7 @@ render (){
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "60px",
+                        fontSize: "58px",
                         lineHeight: "70px",
                       }}
                     >
@@ -168,7 +168,7 @@ render (){
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "60px",
+                        fontSize: "58px",
                         lineHeight: "70px",
                       }}
                     >
@@ -198,7 +198,7 @@ render (){
                     <span
                       style={{
                         color: "#ffffff",
-                        fontSize: "60px",
+                        fontSize: "58px",
                         lineHeight: "70px",
                       }}
                     >
