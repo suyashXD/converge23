@@ -143,12 +143,14 @@ function Footer(){
                 <span className="tinyMce-placeholder">
                 Contact:<br/>
                 Siddhant Jindal: +917060097097
-                <br/>Vice President JIIT Youth Club<br/>
-                jiityouthclub128@gmail.com
-                <br/>
+                <br/>(Vice President JIIT Youth Club)<br/>
+                
+                
                 <br/>
                 Rahul Pamnani: +918949222096
-                <br/>General Secretary JIIT Youth Club<br/>
+                <br/>(General Secretary JIIT Youth Club)
+                <br/>
+                <br/>
                 jiityouthclub128@gmail.com
                 </span>
               </p>

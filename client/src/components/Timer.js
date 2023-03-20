@@ -34,14 +34,33 @@ function Timer() {
       <div className="inner">
         
         <br/>
-        <p style={{color: "white"}}><strong>{days} DAYS REMAINING</strong></p>
-        <br/>
+        
+        
         <div className="timer">
-          <div className="time"><strong>{hours}</strong></div>
+        <div className="time"><strong>{days}</strong>
+        <div> 
+        <p style={{color: "white"}}><strong>DAYS</strong></p>
+          </div>
+        </div>
+        <span style={{color: "white"}}><strong>:</strong></span>
+          <div className="time"><strong>{hours}</strong>
+          <div> 
+        <p style={{color: "white"}}><strong>HOURS</strong></p>
+          </div>
+          </div>
+          
           <span style={{color: "white"}}><strong>:</strong></span>
-          <div className="time"><strong>{minutes}</strong></div>
+          <div className="time"><strong>{minutes}</strong>
+          <div> 
+        <p style={{color: "white"}}><strong>MINUTES</strong></p>
+          </div>
+          </div>
           <span style={{color: "white"}}><strong>:</strong></span>
-          <div className="time"><strong>{seconds}</strong></div>
+          <div className="time"><strong>{seconds}</strong>
+          <div> 
+        <p style={{color: "white"}}><strong>SECONDS</strong></p>
+          </div>
+          </div>
         </div>
         <br/>
         

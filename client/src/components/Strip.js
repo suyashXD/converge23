@@ -22,7 +22,7 @@ function Strip() {
   return (
     <div className={`running-strip-container ${isStripVisible ? "visible" : "hidden"}`}>
       <div className="running-strip">
-        <p><strong><Link to="/EventsPage">Registrations are live now!</Link></strong></p>
+        <p style={{fontSize: "40px"}}><strong><Link to="/EventsPage" style={{textDecoration: "none"}}>Registrations are live now!</Link></strong></p>
       </div>
     </div>
   );

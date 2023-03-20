@@ -208,7 +208,7 @@ Bored of your day-to-day life? Join us for an exciting bollywood event full of f
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/AA7L7oKRLLfbHA3M9"
+              href="https://forms.gle/BaymXCo1N9vTmq3u5"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
