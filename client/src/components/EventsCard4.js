@@ -36,7 +36,7 @@ function EventsCard4() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      ROWDIES
+                      VAAD VIVAAD
                     </span>
                   </strong>
                 </span>
@@ -48,7 +48,7 @@ function EventsCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/SW_2.png"
+              src="https://www.linkpicture.com/q/eloquence.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -69,16 +69,7 @@ function EventsCard4() {
                 textAlign: "left",
               }}
             >
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Venue: Workshop Area{" "}
-              </span>
-              <br />
+              
               <span
                   style={{
                     color: "#ffffff",
@@ -86,9 +77,10 @@ function EventsCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  The main objective of this event is to provide a platform for adventurous individuals who want to be a part of the popular reality show "Roadies". The event will allow participants to showcase their skills and personality, and potentially earn a spot on the show.
-                  <br/>
-                  Time: 09:00AM – 05:00PM                 
+                  Date: 26th March 2023<br/>
+Time: 11:00AM - 2:00PM<br/>
+Venue: LT 6<br/>
+Gear up for the battle of words! Vaad Vivaad is a conventional debating competition where participants will have to use their wit and critical thinking skills to stand for their views and come out on top.                
                 </span>
               
               
@@ -101,7 +93,7 @@ function EventsCard4() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/gTR74oWzoYR4qYMn9"
+              href="https://forms.gle/X5Dkku63UoiNrMA38"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -161,7 +153,7 @@ function EventsCard4() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      ACOUSTICA
+                      FUSIONXBHANGRA
                     </span>
                   </strong>
                 </span>
@@ -173,7 +165,7 @@ function EventsCard4() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/acoustica.jpg"
+              src="https://www.linkpicture.com/q/Sabrang-Cropped.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -195,16 +187,7 @@ function EventsCard4() {
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: MPH{" "}
-                </span>
-                <br />
+                
                 
                 <span
                   style={{
@@ -213,9 +196,10 @@ function EventsCard4() {
                     lineHeight: "19px",
                   }}
                 >
-                  The Acoustica is an exciting solo singing competition that showcases the talent and creativity of college students. Participants will have the opportunity to showcase their vocal skills and perform their favorite songs in front of a panel of judges and a live audience. The competition is open to all genres, including pop, rock, classical, and more. The winner will be chosen based on their vocal ability, stage presence, and overall performance. This competition is an excellent opportunity for students to showcase their singing talent and gain recognition for their skills.
-                  <br/>
-                  Time: 12:00PM – 01:30PM
+                  Date: 26th March 2023<br/>
+Time: 12:30PM - 2:00PM<br/>
+Venue: Ground<br/>
+Are you ready for tapping your foot to the beat? FusionxBhangra is a jaw dropping dance performance collaboration between both the dance hubs of J-128. It promises to be worth all the hype and is bound to get you moving your hands and legs in the air.
                 </span>
               </p>
             </div>
@@ -227,7 +211,7 @@ function EventsCard4() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/jUyJSUL2E7xbCTe46"
+              href="https://forms.gle/wLgV4HNEzddGoxc47"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

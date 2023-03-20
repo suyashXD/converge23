@@ -15,8 +15,7 @@ import EventsCard12 from "./components/EventsCard12";
 import EventsCard13 from "./components/EventsCard13";
 import EventsCard14 from "./components/EventsCard14";
 import EventsCard15 from "./components/EventsCard15";
-import EventsCard16 from "./components/EventsCard16";
-import EventsCard17 from "./components/EventsCard17";
+
 import Footer from "./components/Footer";
 
 
@@ -319,6 +318,7 @@ function EventsPage(props) {
       <EventsCard4 />
       <EventsCard5 />
       <EventsCard6 />
+      <EventsCard7/>
       <EventsCard8/>
       <EventsCard9/>
       <EventsCard10/>
@@ -327,9 +327,8 @@ function EventsPage(props) {
       <EventsCard13/>
       <EventsCard14/>
       <EventsCard15/>
-      <EventsCard16/>
-      <EventsCard17/>
-      <EventsCard7/>
+ 
+      
       <Footer />
     </div>
   );

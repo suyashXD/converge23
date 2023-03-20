@@ -35,7 +35,7 @@ function EventsCard11() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      ARTISION
+                      TU JHOOTI MAIN MAKKAR
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://i.ibb.co/5Mhzh3Q/Artision.jpg"
+              src="https://www.linkpicture.com/q/SW_2.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -68,6 +68,7 @@ function EventsCard11() {
                 textAlign: "left",
               }}
             >
+              
               <span
                 style={{
                   color: "#ffffff",
@@ -75,36 +76,14 @@ function EventsCard11() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: MPH{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                ARTISION provides a perfect stage for artists to demonstrate
-                their skills and push the limits of their creativity depicting
-                any one of the themes:
-                <br />
-                -The last photo <br />
-                -Depiction of fear
-                <br />
-                -Phobia
+                Date: 26th March 2023<br/>
+Time: 10:00AM - 4:00PM<br/>
+Venue: Workshop Area<br/>
+Based on the rom-com, this event is for a pair of friends who can complement you just as well as Ranbir did Shraddha and participate in competitive events.
               </span>
               <br />
 
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Time: 01:00PM – 03:00PM
-              </span>
+              
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -112,9 +91,9 @@ function EventsCard11() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://forms.gle/BESg7EHro1gfXQsj8"
+              href="https://docs.google.com/forms/d/1C0Cp1pEw7Ia7dxTo1IWCcNzvVx_qDHW2zXmsiEx8bOk/viewform?edit_requested=true"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -147,7 +126,7 @@ function EventsCard11() {
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -174,7 +153,7 @@ function EventsCard11() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      FUSIONXBHANGRA
+                      CRYPTO TRADE ROYALE
                     </span>
                   </strong>
                 </span>
@@ -186,7 +165,7 @@ function EventsCard11() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Sabrang-Cropped.jpeg"
+              src="https://www.linkpicture.com/q/Crypto.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -208,16 +187,6 @@ function EventsCard11() {
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: Ground{" "}
-                </span>
-                <br />
 
                 <span
                   style={{
@@ -226,9 +195,7 @@ function EventsCard11() {
                     lineHeight: "19px",
                   }}
                 >
-                  Group dance competition by Bhangde De Sartaaj and Vamunique.
-                  <br />
-                  Time: 12:30AM – 02:30AM
+                The main objective of this event is to make the participants learn about the stock market and trading in a simulated environment aiming to provide as close experience to the real market as possible. Open to all individuals, this event is a great platform to learn from the experts.
                 </span>
               </p>
             </div>
@@ -240,7 +207,7 @@ function EventsCard11() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/wLgV4HNEzddGoxc47"
+              href="https://docs.google.com/forms/d/1WAZTIEf8eMV6R8SsVTA0uJnEMTBRRdviIBEtauTHH8U/edit?ts=64134960"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

@@ -35,7 +35,7 @@ function EventsCard13() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      MEHFIL
+                      CAPTURE THE FLAG
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Abhivyakti.png"
+              src="https://www.linkpicture.com/q/JODC_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -75,22 +75,13 @@ function EventsCard13() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: OAT{" "}
-                <br/>
-                Unleash your creativity and  showcase your unique voice through poetry, music, comedy, or any other art form you choose along with a chance to win exciting cash prizes. 
-Aaeye aur shaamil ho jaeye hamari mehfil mein.
+                Date: 25th March 2023<br/>
+Time: 3:00PM - 5:00PM<br/>
+Venue: CL 3<br/>
+Capture The Flag, but with a twist! Participants will compete in a security-themed challenge for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score. 
 
               </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Time: 10:00AM – 04:00PM
-              </span>
+              
             </p>
           </div>
           <div className="bee-block bee-block-4 bee-divider">
@@ -98,9 +89,9 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://forms.gle/AA7L7oKRLLfbHA3M9"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScfWUZKmRkCbxgaIZrB4DL0Yx7i7fMh204OTxS4q-FDGzWN_w/viewform?usp=sf_link"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -133,7 +124,7 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -194,16 +185,7 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: LT 6{" "}
-                </span>
-                <br />
+                
 
                 <span
                   style={{
@@ -212,10 +194,11 @@ Aaeye aur shaamil ho jaeye hamari mehfil mein.
                     lineHeight: "19px",
                   }}
                 >
-                  Quiz will be based on the Linux Commands and about general
-                  open source. 
-                  <br/>
-                  Time: 02:00PM – 03:00PM
+                  Date: 26th March 2023<br/>
+Time: 2:00PM - 3:00PM<br/>
+Venue: LT 6<br/>
+If the general quizzes didn't satisfy you enough and you crave something more technical, Quizsource is the event for you! The quiz is based on linux commands and about general open source.
+
                 </span>
               </p>
             </div>

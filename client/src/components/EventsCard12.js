@@ -35,7 +35,7 @@ function EventsCard12() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    BEATDOWN
+                    BRAIN BATTLE
                     </span>
                   </strong>
                 </span>
@@ -48,7 +48,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/beatdown.jpg"
+              src="https://www.linkpicture.com/q/Brain-Battle.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -69,16 +69,7 @@ function EventsCard12() {
                 textAlign: "left",
               }}
             >
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Venue: Ground{" "}
-              </span>
-              <br />
+              
               <span
                   style={{
                     color: "#ffffff",
@@ -86,9 +77,10 @@ function EventsCard12() {
                     lineHeight: "19px",
                   }}
                 >
-                  Beat Down is a thrilling solo instrumental competition that invites music enthusiasts to showcase their skills on their chosen instrument. From guitar and drums to keyboard and saxophone, any instrument is welcome. Each participant will have a limited time to perform their instrumental piece, impressing the judges and the audience with their skills, style, and creativity. The winner of the competition will be selected based on their technical ability, musicality, and overall performance. Join us for an exciting battle of the beats and see who comes out on top!
-                <br/>
-                 Time: 11:00AM – 12:30PM
+                  Date: 25th March 2023<br/>
+Time: 12:00 pm - 2:00PM<br/>
+Venue: LT 6<br/>
+Get those gears turning! Brain Battle is an exciting offline quiz that tests the knowledge and skills of participants in various fields including but not limited to history, sciences, pop culture etc. A great way to get your break out your thinking caps all while having fun!
                 </span>
               
             </p>
@@ -100,7 +92,7 @@ function EventsCard12() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/2raNm2CRU7t5dgLE7"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -160,7 +152,7 @@ function EventsCard12() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      CRYPTO TRADE ROYALE
+                      QUIZMANIA
                     </span>
                   </strong>
                 </span>
@@ -172,7 +164,7 @@ function EventsCard12() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Crypto.jpg"
+              src="https://www.linkpicture.com/q/Quriosity.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -211,7 +203,8 @@ function EventsCard12() {
                     fontSize: "16px",
                     lineHeight: "19px",
                   }}
-                >The main objective of this event is to make the participants learn about the stock market and trading in a simulated environment aiming to provide as close experience to the real market as possible. The event is open to all individuals from various backgrounds. No as such prior knowledge is needed to participate. Anyone interested in learning about trading and investments can apply.
+                >Didn't feel like battling people head on? Quizmania is an online quiz that provides an opportunity for people from all over the world to come together
+                and test their knowledge in a fun and engaging way.
 
                 </span>
                 <br />
@@ -235,7 +228,7 @@ function EventsCard12() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://docs.google.com/forms/d/1WAZTIEf8eMV6R8SsVTA0uJnEMTBRRdviIBEtauTHH8U/edit?ts=64134960"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

@@ -35,7 +35,7 @@ function EventsCard13() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    MR. & MS. CONVERGE
+                    MARIO ROBOT OLYMPICS
                     </span>
                   </strong>
                 </span>
@@ -48,7 +48,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Panache.png"
+              src="https://www.linkpicture.com/q/CICR_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -69,6 +69,7 @@ function EventsCard13() {
                 textAlign: "left",
               }}
             >
+              
               <span
                 style={{
                   color: "#ffffff",
@@ -76,27 +77,10 @@ function EventsCard13() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Ground{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Mr. and Ms. Converge is the ultimate fashion and personality competition where participants showcase their style, confidence, and charm. The event features various rounds including traditional wear, western wear, talent round, and a question-answer round where contestants are judged on their overall appearance, poise, and communication skills. The winner is crowned as Mr and Miss Converge and receives exciting prizes and recognition. Get ready to strut your stuff on the runway and show the world what you've got!
-              </span>
-              <br />
-              <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                 Time: 02:00PM – 04:00PM
+                Date: 26th March 2023<br/>
+Time: 10:00PM - 4:00PM<br/>
+Venue: Lab Area<br/>
+Gear up your brain!The Mario Robot Olympics is a time based manual bot event where participants will have to create bots that can lift 15x15cm boxes placed at specific location on the given tack. 
                 </span>
               
             </p>
@@ -108,7 +92,7 @@ function EventsCard13() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href = "https://forms.gle/QSX97dPovTxev5mQA"
+              href = "https://forms.gle/xEyb3C5PejhD5pNJ9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -168,7 +152,7 @@ function EventsCard13() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      VAAD VIVAD
+                      JUNK BOT
                     </span>
                   </strong>
                 </span>
@@ -180,7 +164,7 @@ function EventsCard13() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/eloquence.png"
+              src="https://www.linkpicture.com/q/CICR_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -202,27 +186,7 @@ function EventsCard13() {
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: LT 6{" "}
-                </span>
-                <br />
-
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Vaad Vivaad is a conventional debate competition that challenges individual participants to prepare for both sides of a topic that will be released 48 hours before the competition. The stance (for/against) of each participant will be released 1 hour before the debate, requiring them to prepare thoroughly. Participants will have a total of 3 minutes (2 minutes for speech and 1 minute for conclusion) to express their opinions, followed by an interjection round where participants can be asked up to 3 questions. A participant must not take more than 1 minute to answer a question, and violation of the time limit can lead to deduction of marks. The judges' decision will be final and binding, making this competition an exciting opportunity for participants to showcase their critical thinking and debating skills.
-                </span>
-                <br />
+                
                 
                 <span
                   style={{
@@ -231,7 +195,10 @@ function EventsCard13() {
                     lineHeight: "19px",
                   }}
                 >
-                  Time: 11:00AM – 02:00PM
+                 Date: 26th March 2023<br/>
+Time: 10:00AM - 4:00PM<br/>
+Venue: Ground Entrance<br/>
+Put on your thinking caps and think outside the box. The challenge is to make a robot with the 'junk' items provided on the arena in the given time frame and put them in a race to see who comes out on top.
                 </span>
               </p>
             </div>
@@ -243,7 +210,7 @@ function EventsCard13() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/X5Dkku63UoiNrMA38"
+              href="https://forms.gle/YL2Fwc6vfyYKnhN3A"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

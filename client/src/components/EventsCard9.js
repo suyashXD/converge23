@@ -35,7 +35,7 @@ function EventsCard9() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      JUNK BOT
+                      REEL TALES
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard9() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/CICR_1.png"
+              src="https://www.linkpicture.com/q/Cinekala.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -68,6 +68,7 @@ function EventsCard9() {
                 textAlign: "left",
               }}
             >
+              
               <span
                 style={{
                   color: "#ffffff",
@@ -75,24 +76,7 @@ function EventsCard9() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: Ground Entrance{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                A robot has to be made with junks provided on the arena.
-                <br/>
-Round 1 - Making of robot within a stipulated time given frame. 
-<br/>
-Round 2 – Race between the robots that are qualified.
-
-                <br/>
-                Time: 10:00AM – 04:00PM
+                Brought to you by Cinekala, Reel Tales is an exciting competition where participants will be challenged to create a captivating and visually stunning aftermovie that captures the true essence of an event or experience.
               </span>
             </p>
           </div>
@@ -101,9 +85,9 @@ Round 2 – Race between the robots that are qualified.
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://forms.gle/YL2Fwc6vfyYKnhN3A"
+              href="https://forms.gle/xHKu6MDGQB7XaidMA"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -136,7 +120,7 @@ Round 2 – Race between the robots that are qualified.
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -163,7 +147,7 @@ Round 2 – Race between the robots that are qualified.
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      CODE RAGE
+                      BEAT DOWN
                     </span>
                   </strong>
                 </span>
@@ -175,7 +159,7 @@ Round 2 – Race between the robots that are qualified.
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/RPH_1.png"
+              src="https://www.linkpicture.com/q/beatdown.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -197,16 +181,7 @@ Round 2 – Race between the robots that are qualified.
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: CL 3{" "}
-                </span>
-                <br />
+                
 
                 <span
                   style={{
@@ -215,16 +190,10 @@ Round 2 – Race between the robots that are qualified.
                     lineHeight: "19px",
                   }}
                 >
-                  Code Rage is a competitive programming event that challenges
-                  participants to solve DSA-based questions with accuracy,
-                  speed, and code optimality. The event is designed to test
-                  participants' coding skills, logical thinking, and
-                  problem-solving abilities. Participants will be evaluated
-                  based on their performance and the top performers will be
-                  awarded. This event is perfect for anyone who loves to code
-                  and wants to showcase their skills.
-                  <br />
-                  Time: 01:00PM – 03:00PM
+                  Date: 26th March 2023<br/>
+Time: 11:00AM - 12:30PM<br/>
+Venue: Ground<br/>
+If not your voice, bust out those instruments and showcase your instrumental talent and compete against fellow instrumentalists for a chance to win exciting cash prizes in beat down – the battle of instruments.
                 </span>
               </p>
             </div>
@@ -236,7 +205,7 @@ Round 2 – Race between the robots that are qualified.
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/g6U6hyZshFyyg9Tb8"
+              href="https://forms.gle/2raNm2CRU7t5dgLE7"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

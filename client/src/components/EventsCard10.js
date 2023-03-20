@@ -35,7 +35,7 @@ function EventsCard10() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    CAPTURE THE FLAG
+                    THE BEAUTY BAR
                     </span>
                   </strong>
                 </span>
@@ -48,7 +48,7 @@ function EventsCard10() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/JODC_1.png"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -69,16 +69,7 @@ function EventsCard10() {
                 textAlign: "left",
               }}
             >
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Venue: CL 3{" "}
-              </span>
-              <br />
+              
               <span
                   style={{
                     color: "#ffffff",
@@ -86,9 +77,12 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
-                  Participants compete in a security-themed challenge for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
-                  <br/>
-                 Time: 03:00PM – 05:00PM
+                 Date - 25th March 2023<br/>
+Time: 01:00PM - 02:00PM<br/>
+Venue: MPH<br/>
+It's time to bring out the lipsticks and mascara as Beauty Bar gives you a chance to bring out your inner makeup artist and give another participant a makeover that makes them shine brighter than the stars.
+<br/>
+No registration required.
                 </span>
               
             </p>
@@ -97,10 +91,95 @@ function EventsCard10() {
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
 
+          
+        </div>
+        <div className="bee-col bee-col-3 bee-col-w5">
+          <div className="bee-block bee-block-1 bee-divider">
+            <div className="spacer" style={{ height: 60 }}></div>
+          </div>
+          <div className="bee-block bee-block-2 bee-text">
+            <div
+              className="bee-text-content"
+              style={{
+                lineHeight: "120%",
+                fontSize: "12px",
+                fontFamily: "inherit",
+                color: "#393d47",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: "14px",
+                  lineHeight: "16px",
+                  textAlign: "right",
+                }}
+              >
+                <span style={{ fontSize: "42px", lineHeight: "50px" }}>
+                  <strong style={{}}>
+                    <span style={{ lineHeight: "14px", color: "#ffffff" }}>
+                      ROWDIES
+                    </span>
+                  </strong>
+                </span>
+              </p>
+            </div>
+          </div>
+
+          <div className="bee-block bee-block-3 bee-image">
+            <img
+              alt="Band Thumbnail Placeholder"
+              className="bee-center bee-fixedwidth"
+              src="https://www.linkpicture.com/q/SW_2.png"
+              style={{ maxWidth: "220px" }}
+            />
+          </div>
+
+          <div className="bee-block bee-block-3 bee-text">
+            <div
+              className="bee-text-content"
+              style={{
+                lineHeight: "120%",
+                fontSize: "12px",
+                fontFamily: "inherit",
+                color: "#393d47",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: "14px",
+                  lineHeight: "16px",
+                  textAlign: "right",
+                }}
+              >
+                
+
+                <span
+                  style={{
+                    color: "#ffffff",
+                    fontSize: "16px",
+                    lineHeight: "19px",
+                  }}
+                >
+                  
+                  Date: 25th March 2023<br/>
+Time: 9:00AM - 5:00PM<br/>
+Venue: Workshop Area<br/>
+Rowdies gives a platform for adventurous individuals who want to be a part of the popular reality show "Roadies". The event will allow participants to showcase their skills and personality, and potentially earn a spot on the show.
+                </span>
+                <br />
+                
+                
+              </p>
+            </div>
+          </div>
+
+          <div className="bee-block bee-block-4 bee-divider">
+            <div className="spacer" style={{ height: 45 }}></div>
+          </div>
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://docs.google.com/forms/d/e/1FAIpQLScfWUZKmRkCbxgaIZrB4DL0Yx7i7fMh204OTxS4q-FDGzWN_w/viewform?usp=sf_link"
+              href="https://forms.gle/gTR74oWzoYR4qYMn9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -133,112 +212,7 @@ function EventsCard10() {
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
-          </div>
-        </div>
-        <div className="bee-col bee-col-3 bee-col-w5">
-          <div className="bee-block bee-block-1 bee-divider">
-            <div className="spacer" style={{ height: 60 }}></div>
-          </div>
-          <div className="bee-block bee-block-2 bee-text">
-            <div
-              className="bee-text-content"
-              style={{
-                lineHeight: "120%",
-                fontSize: "12px",
-                fontFamily: "inherit",
-                color: "#393d47",
-              }}
-            >
-              <p
-                style={{
-                  fontSize: "14px",
-                  lineHeight: "16px",
-                  textAlign: "right",
-                }}
-              >
-                <span style={{ fontSize: "42px", lineHeight: "50px" }}>
-                  <strong style={{}}>
-                    <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      THE BEAUTY BAR
-                    </span>
-                  </strong>
-                </span>
-              </p>
-            </div>
-          </div>
-
-          <div className="bee-block bee-block-3 bee-image">
-            <img
-              alt="Band Thumbnail Placeholder"
-              className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Panache.png"
-              style={{ maxWidth: "220px" }}
-            />
-          </div>
-
-          <div className="bee-block bee-block-3 bee-text">
-            <div
-              className="bee-text-content"
-              style={{
-                lineHeight: "120%",
-                fontSize: "12px",
-                fontFamily: "inherit",
-                color: "#393d47",
-              }}
-            >
-              <p
-                style={{
-                  fontSize: "14px",
-                  lineHeight: "16px",
-                  textAlign: "right",
-                }}
-              >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: MPH{" "}
-                </span>
-                <br />
-
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  
-                  The Beauty Bar is a makeup competition where participants will pick 3-4 chits from a bowl with names of cosmetics written on them. They will then use the corresponding makeup items from another bowl to create a complete look. The challenge encourages creativity and resourcefulness as participants must use the makeup items given to them to create a cohesive and polished look. The winner will be selected based on their overall makeup skills and the uniqueness of their final look. The Beauty Bar provides a fun and exciting opportunity for participants to showcase their creativity and makeup skills.
-                  <br/>
-                  No registration required.
-                </span>
-                <br />
-                
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Time: 01:00PM – 02:00PM
-
-                
-                </span>
-              </p>
-            </div>
-          </div>
-
-          <div className="bee-block bee-block-4 bee-divider">
-            <div className="spacer" style={{ height: 45 }}></div>
-          </div>
-          <div className="bee-block bee-block-5 bee-button">
-            
+            </a>
           </div>
 
           <div className="bee-block bee-block-6 bee-divider">

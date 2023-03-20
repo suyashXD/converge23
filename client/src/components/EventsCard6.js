@@ -34,7 +34,7 @@ function EventsCard6() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      SPEAK TWEAK
+                      MEHFIL
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/speaktweak.png"
+              src="https://www.linkpicture.com/q/Abhivyakti.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -68,15 +68,7 @@ function EventsCard6() {
                 textAlign: "left",
               }}
             >
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Venue: MPH{" "}
-              </span>
+              
               <br />
               <span
                   style={{
@@ -85,18 +77,13 @@ function EventsCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  Speak Tweak is an Elocution Competition that challenges participants to prepare and deliver a persuasive speech on a topic of their choice. The competition emphasizes originality, clarity, and coherence of thought, and participants are required to submit their speeches before the event to ensure that there is no plagiarism involved. With a speech duration of three minutes, this event promises to be a showcase of excellent public speaking skills.
-                </span>
+                  Date: 26th March 2023<br/>
+Time: 10:00AM - 4:00PM<br/>
+Venue: OAT<br/>
+Aaeye aur shaamil ho jaeye hamari mehfil mein. Unleash your creativity and  showcase your unique voice through poetry, music, comedy, or any other art form you choose along with a chance to win exciting cash prizes.
+                                  </span>
               <br/>
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Time: 09:00AM – 11:00AM
-              </span>
+              
               
             </p>
           </div>
@@ -107,7 +94,7 @@ function EventsCard6() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/AyiFt265197A5nWe6"
+              href="https://forms.gle/AA7L7oKRLLfbHA3M9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -167,7 +154,7 @@ function EventsCard6() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      BRAIN BATTLE
+                      ARTISION
                     </span>
                   </strong>
                 </span>
@@ -179,7 +166,7 @@ function EventsCard6() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Brain-Battle.jpeg"
+              src="https://i.ibb.co/5Mhzh3Q/Artision.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -201,16 +188,6 @@ function EventsCard6() {
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: LT 6{" "}
-                </span>
-                <br />
                 
                 <span
                   style={{
@@ -219,9 +196,10 @@ function EventsCard6() {
                     lineHeight: "19px",
                   }}
                 >
-                  The offline quiz challenge is a competitive event that tests participants' knowledge and skills in various areas. Teams compete in multiple rounds, starting with a qualifying round, and the difficulty level increases with each round. The event can include interactive challenges for the audience, and the winning team receives a prize. The quiz challenge promotes learning and is a fun way to bring people together.
-                  <br/>
-                  Time: 12:00PM – 02:00PM
+                  Date: 25th March 2023<br/>
+Time: 2:00PM - 4:00PM<br/>
+Venue: MPH<br/>
+Artision is a cutthroat art competition that provides the perfect stage for artists to demonstrate their skills and push the limits of their creativity to create a masterpiece on one of the given themes that leaves peoples' jaws on the floor.
                 </span>
               </p>
             </div>
@@ -233,7 +211,7 @@ function EventsCard6() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc%3D0%26amp;c%3D0%26amp;w%3D1%26amp;flr%3D0&sa=D&source=editors&ust=1679155764366186&usg=AOvVaw0p9tiuvZYbTSVxwK2D0RBX"
+href="https://forms.gle/BESg7EHro1gfXQsj8"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

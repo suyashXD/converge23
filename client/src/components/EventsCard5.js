@@ -68,6 +68,7 @@ function EventsCard5() {
                 textAlign: "left",
               }}
             >
+              
               <span
                 style={{
                   color: "#ffffff",
@@ -75,31 +76,10 @@ function EventsCard5() {
                   lineHeight: "19px",
                 }}
               >
-                Venue: MPH{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                It will be a dance battle The winner of the battle goes on to
-                the next round and the loser is knocked out of the competition.
-                This goes on until there are two dancers, or two crews, left, at
-                which point there is a final battle and an overall winner of the
-                event is chosen.
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Time: 01:30PM – 03:00PM
+                Date: 25th March 2023<br/>
+Time: 1:30PM - 3:00PM<br/>
+Venue: MPH<br/>
+Be ready to put your best foot forward! A dance battle that forces you to dance till you drop or become a crowd favourite and win handsome reward. Best Foot Forward is a knockout dance competition where each participant will fight their way to the top.
               </span>
             </p>
           </div>
@@ -170,7 +150,7 @@ function EventsCard5() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      BOLLYWOOD BASH
+                      TAMASHA
                     </span>
                   </strong>
                 </span>
@@ -182,7 +162,7 @@ function EventsCard5() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Panache.png"
+              src="https://www.linkpicture.com/q/Abhivyakti.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -204,16 +184,7 @@ function EventsCard5() {
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: MPH{" "}
-                </span>
-                <br />
+                
 
                 <span
                   style={{
@@ -222,18 +193,10 @@ function EventsCard5() {
                     lineHeight: "19px",
                   }}
                 >
-                  Bollywood Bash is a vibrant and exciting fashion event with
-                  a Bollywood theme. Hosted by Panache, this event celebrates
-                  the rich and diverse culture of India and brings
-                  sophistication and glamour to life. Participants can showcase
-                  their creativity and fashion skills by creating their unique
-                  Bollywood-inspired outfits. The winner is selected based on
-                  their creativity, originality, and overall execution of their
-                  concept. Bollywood Bash provides an excellent opportunity
-                  for students to showcase their fashion skills and creativity
-                  in a fun and exciting way.
-                  <br />
-                  Time: 03:00PM – 05:00PM
+                  Date - 25th March 2023<br/>
+Time: 9:00AM - 5:00PM<br/>
+Venue: OAT<br/>
+Bored of your day-to-day life? Join us for an exciting bollywood event full of friends, games and laughter while getting a chance to win exciting cash prizes.
                 </span>
               </p>
             </div>
@@ -245,7 +208,7 @@ function EventsCard5() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/YbBzQ7jgGn3YvTnbA"
+              href="https://forms.gle/AA7L7oKRLLfbHA3M9"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

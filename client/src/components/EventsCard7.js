@@ -35,7 +35,7 @@ function EventsCard7() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      QUIZMANIA
+                      MR. & MS. CONVERGE
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard7() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Quriosity.jpg"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -85,9 +85,10 @@ function EventsCard7() {
                   lineHeight: "19px",
                 }}
               >
-                The online quiz event provides an opportunity for people from all over the world to come together
-and test their knowledge in a fun and engaging way. It is an excellent way to promote learning and
-entertainment while connecting with others virtually.
+                Date: 26th March 2023<br/>
+Time: 2:00PM - 4:00PM<br/>
+Venue: Ground<br/>
+"The world is a mere stage!" So ladies and gentlemen, it’s time to put on your wigs and gowns for the most magnificent event of the year. Panache, the fashion society of JIIT 128 presents "Mr and Miss Converge 2023"! Rise and Shine and stand apart from the crowd!
                 <br />
                 
               </span>
@@ -98,9 +99,9 @@ entertainment while connecting with others virtually.
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://docs.google.com/forms/d/e/1FAIpQLSfIJ7grhFv5OHFQwo2PiWYkEPFv_fdYBPko4haENg-pHW-Gmg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0"
+              href = "https://forms.gle/QSX97dPovTxev5mQA"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -133,7 +134,7 @@ entertainment while connecting with others virtually.
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -160,7 +161,7 @@ entertainment while connecting with others virtually.
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      TU JHOOTI MAIN MAKAAR
+                      BOLLYWOOD BASH
                     </span>
                   </strong>
                 </span>
@@ -172,7 +173,7 @@ entertainment while connecting with others virtually.
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/SW_2.png"
+              src="https://www.linkpicture.com/q/Panache.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -194,16 +195,8 @@ entertainment while connecting with others virtually.
                   textAlign: "right",
                 }}
               >
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Venue: Workshop Area{" "}
-                </span>
-                <br />
+                
+                
 
                 <span
                   style={{
@@ -212,10 +205,11 @@ entertainment while connecting with others virtually.
                     lineHeight: "19px",
                   }}
                 >
-                  This event is for friends, here two friends will make a pair
-                  and participate in competitive events.
-                  <br />
-                  Time: 10:00AM – 04:00PM
+                  Date: 25th March 2023<br/>
+Time: 3:00PM - 5:00PM<br/>
+Venue: MPH<br/>
+'Abhi toh party shuru hui hai!'. Bollywood Bash is a colorful and lively event that will make you feel like the main character in a blockbuster. Dress up as your favourite character and come enjoy with all your friends. 
+
                 </span>
               </p>
             </div>
@@ -227,7 +221,7 @@ entertainment while connecting with others virtually.
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://docs.google.com/forms/d/1C0Cp1pEw7Ia7dxTo1IWCcNzvVx_qDHW2zXmsiEx8bOk/viewform?edit_requested=true"
+HREF ="https://forms.gle/YbBzQ7jgGn3YvTnbA"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",

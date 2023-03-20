@@ -35,7 +35,7 @@ function EventsCard8() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                      MARIO ROBOT OLYMPICS
+                      ACOUSTICA
                     </span>
                   </strong>
                 </span>
@@ -47,7 +47,7 @@ function EventsCard8() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/CICR_1.png"
+              src="https://www.linkpicture.com/q/acoustica.jpg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -68,25 +68,17 @@ function EventsCard8() {
                 textAlign: "left",
               }}
             >
+              
               <span
                 style={{
                   color: "#ffffff",
                   fontSize: "16px",
                   lineHeight: "19px",
                 }}
-              >
-                Venue: Lab Area{" "}
-              </span>
-              <br />
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >A time base manual bot event that can lift 15x15cm boxes placed at specific location on the tack 
-                <br />
-                Time: 10:00AM – 04:00PM
+              > Date: 25th March 2023<br/>
+              Time: 12:00PM - 1:30PM<br/>
+              Venue: MPH<br/>
+              Bust out those notes! The epic battle of the vocalists, Acoustica gives you a chance to showcase your vocal talent and compete against fellow singers for a chance to win exciting cash prizes.
               </span>
             </p>
           </div>
@@ -95,9 +87,9 @@ function EventsCard8() {
           </div>
 
           <div className="bee-block bee-block-5 bee-button">
-            <Link
+            <a
               className="bee-button-content"
-              to="https://forms.gle/xEyb3C5PejhD5pNJ9"
+              href="https://forms.gle/jUyJSUL2E7xbCTe46"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -130,7 +122,7 @@ function EventsCard8() {
               >
                 <strong style={{ fontSize: "16px" }}>REGISTER</strong>
               </span>
-            </Link>
+            </a>
           </div>
         </div>
         <div className="bee-col bee-col-3 bee-col-w5">
@@ -157,7 +149,7 @@ function EventsCard8() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      TAMASHA
+                      EXPOSURE
                     </span>
                   </strong>
                 </span>
@@ -169,7 +161,7 @@ function EventsCard8() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Abhivyakti.png"
+              src="https://www.linkpicture.com/q/Aura_1.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -198,22 +190,9 @@ function EventsCard8() {
                     lineHeight: "19px",
                   }}
                 >
-                  Venue: OAT{" "}
-                  <br/>
-                  Bored of your day-to-day life? Join us for an exciting bollywood event full of friends, games and laughter while getting a chance to win exciting cash prizes.
-                  
+              An exciting online photogrophy competition, Exposure challenges participants to capture stunning photographs based on a given theme. It's time to put in all your creativity and technical skills to take photos that truly leave you awestruck and truly celebrates the art of photography.                  
                 </span>
-                <br />
-
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  Time: 09:00AM – 05:00PM
-                </span>
+                
               </p>
             </div>
           </div>
@@ -224,7 +203,7 @@ function EventsCard8() {
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/AA7L7oKRLLfbHA3M9"
+              href="https://forms.gle/PP8DGDuY2cxCqQbe6"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
