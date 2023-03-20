@@ -475,20 +475,24 @@
 			justify-content: center;
 			align-items: center;
 			height: 40vh;
-			margin-top: 8vh
+			margin-top: 8vh;
 		  }
 		  
 		  .inner {
 			text-align: center;
 		  }
-		  .inner h1, .inner h2, .time-label , .inner p{
+		  
+		  .inner h1,
+		  .inner h2,
+		  .time-label,
+		  .inner p {
 			color: white;
-			
 		  }
-
-		   .inner p{
+		  
+		  .inner p {
 			color: white;
 			font-size: 30px;
+			margin-top: 10px;
 		  }
 		  
 		  .timer {
@@ -506,11 +510,44 @@
 			border-radius: 5px;
 			padding: 10px;
 		  }
-		  .converge-counter {
-			color: white;
-		  }
-		  .counter-heading, .counter-subheading, .counter-timer, .counter-date {
-			color: white;
+		  
+		  @media screen and (max-width: 768px) {
+			.time {
+			  font-size: 3rem;
+			  padding: 8px;
+			}
+			.inner p {
+			  font-size: 20px;
+			}
 		  }
 		  
-					
+		  @media screen and (max-width: 480px) {
+			.time {
+			  font-size: 2.5rem;
+			  padding: 6px;
+			}
+			.inner p {
+			  font-size: 16px;
+			}
+		  }
+
+		  @media screen and (max-width: 360px) {
+			.time {
+			  font-size: 2rem;
+			  padding: 4px;
+			}
+			.inner p {
+			  font-size: 12px;
+			}
+		  }
+		  
+		  @media screen and (max-width: 320px) {
+			.time {
+			  font-size: 1.5rem;
+			  padding: 4px;
+			}
+			.inner p {
+			  font-size: 10px;
+			}
+		  }
+		  

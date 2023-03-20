@@ -143,70 +143,16 @@ render (){
                       }}
                     >
                       EXPLORE
-                    </span>
-                  </strong>
-                </p>
-              </div>
-
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "center",
-                  }}
-                >
-                  <strong style={{}}>
-                    <span
-                      style={{
-                        color: "#ffffff",
-                        fontSize: "58px",
-                        lineHeight: "70px",
-                      }}
-                    >
+                      <br/>
                       EMBRACE
-                    </span>
-                  </strong>
-                </p>
-              </div>
-
-              <div
-                className="bee-text-content"
-                style={{
-                  lineHeight: "120%",
-                  fontSize: "12px",
-                  fontFamily: "inherit",
-                  color: "#393d47",
-                }}
-              >
-                <p
-                  style={{
-                    fontSize: "14px",
-                    lineHeight: "16px",
-                    textAlign: "center",
-                  }}
-                >
-                  <strong style={{}}>
-                    <span
-                      style={{
-                        color: "#ffffff",
-                        fontSize: "58px",
-                        lineHeight: "70px",
-                      }}
-                    >
+                      <br/>
                       EXPERIENCE
                     </span>
                   </strong>
                 </p>
               </div>
+
+              
               <Timer/>
             </div>
             
