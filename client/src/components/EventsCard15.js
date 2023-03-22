@@ -69,16 +69,7 @@ function EventsCard15() {
                 textAlign: "left",
               }}
             >
-              <span
-                style={{
-                  color: "#ffffff",
-                  fontSize: "16px",
-                  lineHeight: "19px",
-                }}
-              >
-                Venue: LT 6{" "}
-              </span>
-              <br />
+              
               <span
                   style={{
                     color: "#ffffff",
@@ -86,7 +77,7 @@ function EventsCard15() {
                     lineHeight: "19px",
                   }}
                 >
-                  Date - 26th March 2023<br/>
+                  Date: 26th March 2023<br/>
 Time: 12:00PM - 2:00PM<br/>
 Venue: CL 3<br/>
 Get your hands ready and primed! Code Rage is a solo participation competitive programming event that forces you to use all your skills to come out on top in the given time.

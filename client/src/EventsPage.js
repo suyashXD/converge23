@@ -15,7 +15,7 @@ import EventsCard12 from "./components/EventsCard12";
 import EventsCard13 from "./components/EventsCard13";
 import EventsCard14 from "./components/EventsCard14";
 import EventsCard15 from "./components/EventsCard15";
-
+import EventsCard16 from "./components/EventsCard16";
 import Footer from "./components/Footer";
 
 
@@ -327,7 +327,7 @@ function EventsPage(props) {
       <EventsCard13/>
       <EventsCard14/>
       <EventsCard15/>
- 
+      <EventsCard16/>
       
       <Footer />
     </div>

@@ -193,7 +193,7 @@ Be ready to put your best foot forward! A dance battle that forces you to dance 
                     lineHeight: "19px",
                   }}
                 >
-                  Date - 25th March 2023<br/>
+                  Date: 25th March 2023<br/>
 Time: 9:00AM - 5:00PM<br/>
 Venue: OAT<br/>
 Bored of your day-to-day life? Join us for an exciting bollywood event full of friends, games and laughter while getting a chance to win exciting cash prizes.

@@ -2,7 +2,7 @@ import React from "react";
 import "../index.css";
 import { Link } from "react-router-dom";
 
-function EventsCard10() {
+function EventsCard16() {
   return (
     <div className="bee-row bee-row-6">
       <div className="bee-row-content">
@@ -35,7 +35,7 @@ function EventsCard10() {
                 <span style={{ fontSize: "42px", lineHeight: "50px" }}>
                   <strong style={{}}>
                     <span style={{ color: "#ffffff", lineHeight: "14px" }}>
-                    THE BEAUTY BAR
+                    GAMEREX
                     </span>
                   </strong>
                 </span>
@@ -48,7 +48,7 @@ function EventsCard10() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/Panache.png"
+              src="https://www.linkpicture.com/q/FIFA-23.jpeg"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -77,12 +77,10 @@ function EventsCard10() {
                     lineHeight: "19px",
                   }}
                 >
-                 Date: 25th March 2023<br/>
-Time: 01:00PM - 02:00PM<br/>
-Venue: MPH<br/>
-It's time to bring out the lipsticks and mascara as Beauty Bar gives you a chance to bring out your inner makeup artist and give another participant a makeover that makes them shine brighter than the stars.
-<br/>
-No registration required.
+                  Date: 25th March 2023<br/>
+Time: 11:00AM - 02:00PM<br/>
+Venue: TBD<br/>
+Gamerex, a FIFA 23 tournament on PS4, is being organized by Prismatic: The Design Hub, exclusively for students. Register now to compete with other gamers and win exciting prizes.
                 </span>
               
             </p>
@@ -91,95 +89,10 @@ No registration required.
             <div className="spacer" style={{ height: "45px" }}></div>
           </div>
 
-          
-        </div>
-        <div className="bee-col bee-col-3 bee-col-w5">
-          <div className="bee-block bee-block-1 bee-divider">
-            <div className="spacer" style={{ height: 60 }}></div>
-          </div>
-          <div className="bee-block bee-block-2 bee-text">
-            <div
-              className="bee-text-content"
-              style={{
-                lineHeight: "120%",
-                fontSize: "12px",
-                fontFamily: "inherit",
-                color: "#393d47",
-              }}
-            >
-              <p
-                style={{
-                  fontSize: "14px",
-                  lineHeight: "16px",
-                  textAlign: "right",
-                }}
-              >
-                <span style={{ fontSize: "42px", lineHeight: "50px" }}>
-                  <strong style={{}}>
-                    <span style={{ lineHeight: "14px", color: "#ffffff" }}>
-                      ROWDIES
-                    </span>
-                  </strong>
-                </span>
-              </p>
-            </div>
-          </div>
-
-          <div className="bee-block bee-block-3 bee-image">
-            <img
-              alt="Band Thumbnail Placeholder"
-              className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/SW_2.png"
-              style={{ maxWidth: "220px" }}
-            />
-          </div>
-
-          <div className="bee-block bee-block-3 bee-text">
-            <div
-              className="bee-text-content"
-              style={{
-                lineHeight: "120%",
-                fontSize: "12px",
-                fontFamily: "inherit",
-                color: "#393d47",
-              }}
-            >
-              <p
-                style={{
-                  fontSize: "14px",
-                  lineHeight: "16px",
-                  textAlign: "right",
-                }}
-              >
-                
-
-                <span
-                  style={{
-                    color: "#ffffff",
-                    fontSize: "16px",
-                    lineHeight: "19px",
-                  }}
-                >
-                  
-                  Date: 25th March 2023<br/>
-Time: 9:00AM - 5:00PM<br/>
-Venue: Workshop Area<br/>
-Rowdies gives a platform for adventurous individuals who want to be a part of the popular reality show "Roadies". The event will allow participants to showcase their skills and personality, and potentially earn a spot on the show.
-                </span>
-                <br />
-                
-                
-              </p>
-            </div>
-          </div>
-
-          <div className="bee-block bee-block-4 bee-divider">
-            <div className="spacer" style={{ height: 45 }}></div>
-          </div>
           <div className="bee-block bee-block-5 bee-button">
             <a
               className="bee-button-content"
-              href="https://forms.gle/gTR74oWzoYR4qYMn9"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdl0rFXWOJU5_3qxvnMV3btECEp41jd4fu3teJyASif83wbKw/viewform?usp=sf_link"
               style={{
                 fontSize: "16px",
                 backgroundColor: "transparent",
@@ -214,19 +127,12 @@ Rowdies gives a platform for adventurous individuals who want to be a part of th
               </span>
             </a>
           </div>
-
-          <div className="bee-block bee-block-6 bee-divider">
-            <div className="spacer" style={{ height: 45 }}></div>
+        </div>
+        <div className="bee-col bee-col-3 bee-col-w5">
           </div>
         </div>
-        <div className="bee-col bee-col-4 bee-col-w1">
-          <div className="bee-block bee-block-1 bee-divider">
-            <div className="spacer" style={{ height: 0 }}></div>
-          </div>
-        </div>
-      </div>
     </div>
   );
 }
 
-export default EventsCard10;
+export default EventsCard16;
