@@ -7,7 +7,7 @@ function Strip() {
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 10 * window.innerHeight / 100) {
+      if (window.scrollY > 8 * window.innerHeight / 100) {
         setIsStripVisible(false);
       } else {
         setIsStripVisible(true);

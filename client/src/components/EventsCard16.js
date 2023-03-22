@@ -48,7 +48,7 @@ function EventsCard16() {
             <img
               alt="Band Thumbnail Placeholder"
               className="bee-center bee-fixedwidth"
-              src="https://www.linkpicture.com/q/FIFA-23.jpeg"
+              src="https://i.ibb.co/NZmTzrK/Gamerex.png"
               style={{ maxWidth: "220px" }}
             />
           </div>
@@ -77,7 +77,7 @@ function EventsCard16() {
                     lineHeight: "19px",
                   }}
                 >
-                  Date: 25th March 2023<br/>
+                  Date: 25th - 26th March 2023<br/>
 Time: 11:00AM - 02:00PM<br/>
 Venue: TBD<br/>
 Gamerex, a FIFA 23 tournament on PS4, is being organized by Prismatic: The Design Hub, exclusively for students. Register now to compete with other gamers and win exciting prizes.
